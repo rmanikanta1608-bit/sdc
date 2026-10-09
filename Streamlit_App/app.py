@@ -1,3 +1,4 @@
+from pathlib import Path
 import numpy as np, pandas as pd, streamlit as st
 import matplotlib.pyplot as plt
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
@@ -9,13 +10,28 @@ st.title("📚 Course Marketplace Predictor")
 st.caption("Income & expense forecasting and course enrollment prediction (simulated data)")
 
 
+HERE = Path(__file__).resolve().parent
+
+
+def find(name):
+    p = HERE / name
+    if p.exists():
+        return p
+    for q in HERE.rglob(name):
+        return q
+    for q in HERE.parent.rglob(name):
+        return q
+    st.error(f"{name} not found. Upload it to the same GitHub folder as app.py.")
+    st.stop()
+
+
 @st.cache_resource
 def load_models():
-    inc = pd.read_csv("monthly_income.csv", parse_dates=["Date"]).set_index("Date")
+    inc = pd.read_csv(find("monthly_income.csv"), parse_dates=["Date"]).set_index("Date")
     hw = ExponentialSmoothing(inc["Income"], trend="add", damped_trend=True,
                               seasonal="mul", seasonal_periods=12).fit(optimized=True)
     lr_e = LinearRegression().fit(inc[["Income"]], inc["Expenses"])
-    d = pd.read_csv("courses.csv")
+    d = pd.read_csv(find("courses.csv"))
     X = pd.get_dummies(d.drop(columns=["course_id", "enrollments"]), columns=["category", "level"])
     y = np.log1p(d["enrollments"])
     lin = LinearRegression().fit(X, y)
