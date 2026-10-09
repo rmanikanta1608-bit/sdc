@@ -1,0 +1,1501 @@
+course_id,category,level,price_inr,duration_hours,num_lectures,instructor_experience_yrs,rating,discount_pct,has_certificate,course_age_months,enrollments
+C1000,Data Science,Beginner,299,4.6,20,18,4.5,0,1,33,349
+C1001,Exam Preparation,Beginner,0,11.1,51,13,3.9,50,0,4,127
+C1002,Design,Beginner,0,10.7,60,1,4.2,0,1,25,217
+C1003,Web Development,Intermediate,1499,2.5,10,6,4.1,40,1,18,182
+C1004,Programming,Intermediate,1999,12.7,63,12,4.0,30,1,7,49
+C1005,Design,Intermediate,299,12.9,58,17,4.1,20,1,23,97
+C1006,Data Science,Beginner,499,15.8,94,9,4.8,30,0,10,434
+C1007,Language Learning,Intermediate,299,11.2,59,18,4.0,30,0,12,83
+C1008,Data Science,Advanced,0,17.2,61,16,4.5,0,1,42,277
+C1009,Programming,Beginner,799,7.3,41,6,4.4,50,0,17,308
+C1010,Exam Preparation,Intermediate,999,17.5,92,4,3.6,50,0,19,81
+C1011,Programming,Intermediate,999,7.9,39,19,4.5,40,1,1,207
+C1012,Programming,Intermediate,499,10.7,44,12,3.6,20,0,15,64
+C1013,Business,Beginner,799,13.3,52,17,4.5,20,1,17,174
+C1014,Exam Preparation,Intermediate,0,10.5,53,19,4.0,20,1,34,309
+C1015,Programming,Advanced,299,19.9,92,9,4.3,0,1,6,69
+C1016,Data Science,Intermediate,2999,9.3,53,1,3.7,20,0,44,56
+C1017,Exam Preparation,Advanced,1499,11.7,49,19,4.3,20,1,7,137
+C1018,Language Learning,Advanced,2999,9.9,50,12,4.7,30,1,31,60
+C1019,Web Development,Beginner,2999,15.9,66,3,3.9,10,1,1,39
+C1020,Programming,Intermediate,999,7.4,38,11,4.0,20,1,39,200
+C1021,Programming,Intermediate,2999,20.7,75,1,4.5,20,1,33,185
+C1022,Data Science,Advanced,799,6.6,30,6,4.5,10,0,40,221
+C1023,Programming,Beginner,0,18.3,72,7,3.2,50,0,44,67
+C1024,Design,Beginner,0,5.5,28,10,5.0,30,1,40,569
+C1025,Programming,Advanced,299,11.8,51,12,4.5,0,0,30,223
+C1026,Web Development,Beginner,0,8.9,48,17,4.6,0,1,40,591
+C1027,Design,Intermediate,499,13.2,50,8,4.2,30,1,5,161
+C1028,Business,Beginner,999,10.8,53,15,3.4,10,0,31,92
+C1029,Programming,Advanced,1499,12.9,64,19,4.6,40,1,47,150
+C1030,Exam Preparation,Advanced,999,5.4,19,15,4.0,0,1,18,60
+C1031,Design,Beginner,299,4.1,15,6,4.5,0,0,46,126
+C1032,Design,Intermediate,1499,5.1,22,14,4.2,10,1,24,71
+C1033,Programming,Beginner,499,5.0,25,6,4.4,30,1,23,259
+C1034,Programming,Intermediate,0,5.4,32,10,3.9,50,1,15,303
+C1035,Language Learning,Intermediate,499,6.8,25,13,4.6,40,1,6,96
+C1036,Web Development,Intermediate,499,6.7,35,6,3.7,20,1,42,38
+C1037,Data Science,Beginner,499,9.0,47,1,5.0,40,1,34,311
+C1038,Web Development,Beginner,1499,6.0,31,17,5.0,0,0,19,186
+C1039,Design,Intermediate,1499,6.3,30,15,5.0,20,0,46,139
+C1040,Language Learning,Intermediate,999,8.1,48,3,4.8,50,1,9,152
+C1041,Data Science,Intermediate,299,14.0,67,8,4.2,10,1,37,139
+C1042,Language Learning,Beginner,1499,7.3,41,6,4.8,50,1,22,135
+C1043,Programming,Beginner,999,8.7,36,20,4.2,0,1,30,155
+C1044,Business,Advanced,299,9.4,52,19,3.6,0,1,2,26
+C1045,Business,Beginner,999,5.7,34,14,4.9,20,1,29,247
+C1046,Programming,Beginner,799,7.6,44,9,4.8,40,1,32,366
+C1047,Programming,Advanced,799,6.5,28,2,4.2,10,0,46,116
+C1048,Web Development,Beginner,299,13.4,75,5,3.7,40,1,17,85
+C1049,Language Learning,Intermediate,799,12.9,48,2,4.0,0,1,4,43
+C1050,Business,Beginner,0,6.2,32,16,3.4,30,0,3,65
+C1051,Language Learning,Advanced,299,8.6,37,2,4.7,20,0,8,112
+C1052,Exam Preparation,Intermediate,299,11.7,60,14,3.5,0,0,15,60
+C1053,Web Development,Advanced,2999,10.3,47,20,4.4,30,1,40,120
+C1054,Exam Preparation,Beginner,499,10.8,38,7,3.9,30,1,10,77
+C1055,Programming,Intermediate,499,5.7,23,14,3.6,20,1,7,75
+C1056,Programming,Intermediate,499,18.0,65,18,4.4,0,1,2,138
+C1057,Exam Preparation,Beginner,1999,6.7,31,9,4.1,0,0,19,43
+C1058,Exam Preparation,Beginner,999,6.6,37,9,4.6,50,1,29,281
+C1059,Data Science,Beginner,2999,4.8,26,5,3.7,30,1,14,87
+C1060,Business,Advanced,499,8.3,45,9,3.9,40,1,24,51
+C1061,Business,Intermediate,299,14.7,81,18,3.2,30,1,12,41
+C1062,Exam Preparation,Intermediate,799,10.2,45,14,3.3,40,0,38,34
+C1063,Business,Intermediate,499,8.6,41,5,5.0,0,0,2,100
+C1064,Web Development,Intermediate,1499,12.5,60,11,5.0,20,0,10,159
+C1065,Web Development,Intermediate,1999,14.5,55,15,4.3,30,1,27,116
+C1066,Web Development,Beginner,799,12.9,64,2,3.9,0,0,40,93
+C1067,Business,Intermediate,3999,3.6,19,16,4.1,0,1,19,20
+C1068,Exam Preparation,Beginner,799,12.5,63,5,4.6,20,1,4,109
+C1069,Web Development,Advanced,499,11.0,59,6,4.0,40,1,26,82
+C1070,Data Science,Intermediate,799,6.1,23,9,4.4,30,0,13,178
+C1071,Data Science,Beginner,0,11.0,59,11,4.2,0,1,15,249
+C1072,Design,Intermediate,1499,14.7,59,19,4.0,50,1,44,80
+C1073,Exam Preparation,Beginner,299,6.8,39,5,4.0,0,1,45,173
+C1074,Programming,Advanced,499,13.3,55,6,4.4,0,0,13,87
+C1075,Programming,Advanced,999,10.3,49,8,3.8,50,1,28,97
+C1076,Business,Advanced,0,2.1,10,18,4.5,30,0,26,122
+C1077,Programming,Beginner,0,8.9,37,20,4.0,50,0,46,498
+C1078,Exam Preparation,Beginner,999,10.2,45,10,4.3,40,1,45,240
+C1079,Data Science,Beginner,0,7.8,31,14,4.9,30,0,17,777
+C1080,Programming,Beginner,799,10.5,52,19,4.2,0,0,2,204
+C1081,Language Learning,Beginner,499,8.4,49,17,4.7,10,1,1,149
+C1082,Programming,Beginner,499,22.7,97,14,3.4,50,1,1,55
+C1083,Data Science,Advanced,299,7.5,36,11,4.0,40,0,37,164
+C1084,Programming,Beginner,1499,6.2,35,20,4.3,10,0,35,322
+C1085,Programming,Beginner,2999,13.0,60,5,5.0,10,0,39,140
+C1086,Programming,Intermediate,299,8.0,45,8,3.4,0,1,7,59
+C1087,Programming,Intermediate,2999,8.6,40,15,4.2,10,0,3,64
+C1088,Programming,Intermediate,999,8.3,38,1,4.9,40,1,9,260
+C1089,Programming,Intermediate,999,12.7,49,11,3.9,0,1,30,141
+C1090,Business,Advanced,999,5.4,21,18,4.2,10,0,1,58
+C1091,Design,Intermediate,999,13.3,67,4,4.4,50,0,32,95
+C1092,Web Development,Intermediate,1499,11.4,63,17,4.3,20,0,42,155
+C1093,Data Science,Intermediate,799,19.2,74,9,5.0,20,0,7,244
+C1094,Web Development,Beginner,799,9.8,57,18,4.5,10,0,35,167
+C1095,Exam Preparation,Beginner,499,5.6,25,13,4.8,0,1,26,262
+C1096,Exam Preparation,Intermediate,299,9.8,45,4,4.1,0,0,45,98
+C1097,Programming,Beginner,999,10.4,60,15,3.9,0,1,12,166
+C1098,Programming,Intermediate,0,15.3,88,2,4.1,0,1,11,337
+C1099,Data Science,Beginner,499,5.6,27,5,3.7,0,1,1,102
+C1100,Data Science,Beginner,0,4.3,18,18,4.5,10,0,34,647
+C1101,Business,Beginner,299,9.9,39,18,4.1,0,0,41,173
+C1102,Web Development,Advanced,999,19.6,82,1,3.9,50,1,1,52
+C1103,Programming,Beginner,999,12.1,66,8,4.5,0,0,24,269
+C1104,Web Development,Intermediate,799,12.5,54,2,3.7,10,1,35,99
+C1105,Business,Advanced,0,4.7,25,6,4.6,40,1,37,149
+C1106,Programming,Beginner,799,9.2,37,20,4.0,0,1,44,144
+C1107,Exam Preparation,Intermediate,499,15.4,72,4,4.8,20,0,34,175
+C1108,Programming,Beginner,1499,10.5,46,13,4.1,40,0,44,240
+C1109,Language Learning,Beginner,999,4.1,20,17,4.5,20,1,47,291
+C1110,Programming,Intermediate,799,9.1,45,18,4.3,0,1,44,96
+C1111,Exam Preparation,Advanced,799,11.8,71,8,4.6,30,1,21,275
+C1112,Language Learning,Beginner,2999,1.8,10,14,4.3,30,1,20,65
+C1113,Language Learning,Intermediate,1499,8.7,46,10,3.5,10,1,21,45
+C1114,Exam Preparation,Beginner,799,5.9,23,3,4.7,0,1,45,309
+C1115,Exam Preparation,Intermediate,799,13.2,77,5,4.2,0,1,14,182
+C1116,Business,Intermediate,0,7.4,42,15,4.6,40,0,36,373
+C1117,Exam Preparation,Intermediate,2999,10.9,62,14,4.6,10,1,30,60
+C1118,Programming,Intermediate,499,9.0,42,11,3.9,0,1,3,92
+C1119,Business,Beginner,499,7.3,29,16,3.8,20,1,23,132
+C1120,Web Development,Intermediate,3999,20.6,111,14,4.5,50,0,10,72
+C1121,Exam Preparation,Intermediate,1499,6.9,31,7,4.1,0,1,35,105
+C1122,Web Development,Intermediate,0,9.4,41,6,4.7,0,0,22,450
+C1123,Web Development,Beginner,0,9.0,40,19,4.2,10,0,17,286
+C1124,Business,Beginner,0,9.8,48,20,4.7,30,1,4,295
+C1125,Data Science,Beginner,999,19.9,86,1,4.4,20,1,7,134
+C1126,Programming,Beginner,0,11.8,62,16,4.4,40,1,36,703
+C1127,Web Development,Beginner,2999,7.2,37,3,4.1,0,1,41,28
+C1128,Web Development,Beginner,2999,17.0,81,18,4.4,10,1,14,67
+C1129,Data Science,Intermediate,799,12.7,46,12,4.8,10,0,39,146
+C1130,Web Development,Beginner,999,7.3,43,14,4.2,10,1,26,146
+C1131,Web Development,Intermediate,499,15.8,72,15,4.5,20,0,17,299
+C1132,Data Science,Intermediate,0,4.7,22,13,4.3,30,1,22,250
+C1133,Web Development,Intermediate,1499,5.3,25,6,4.3,10,0,33,128
+C1134,Design,Intermediate,299,4.0,18,17,5.0,30,1,43,850
+C1135,Data Science,Intermediate,0,3.2,17,12,4.8,0,1,24,1091
+C1136,Language Learning,Intermediate,499,15.3,54,11,4.3,20,1,17,115
+C1137,Language Learning,Advanced,0,9.9,56,7,4.3,10,0,36,185
+C1138,Web Development,Intermediate,799,4.2,16,1,3.9,20,1,25,59
+C1139,Data Science,Intermediate,999,8.9,53,12,4.2,0,1,19,79
+C1140,Business,Intermediate,1499,13.5,68,7,4.4,50,1,22,136
+C1141,Exam Preparation,Intermediate,999,6.3,23,14,4.6,40,1,26,268
+C1142,Business,Beginner,1999,7.8,38,8,4.6,40,1,7,187
+C1143,Exam Preparation,Intermediate,799,21.1,91,20,3.8,40,1,3,58
+C1144,Business,Intermediate,1999,8.1,48,14,4.7,0,1,32,124
+C1145,Business,Advanced,799,4.3,23,10,4.2,20,1,9,63
+C1146,Data Science,Intermediate,499,7.0,33,15,3.8,10,1,25,119
+C1147,Design,Intermediate,2999,4.0,18,13,4.9,40,1,37,128
+C1148,Data Science,Advanced,499,12.2,73,13,4.9,0,1,11,176
+C1149,Design,Intermediate,0,5.9,30,12,4.4,0,0,18,231
+C1150,Exam Preparation,Beginner,499,5.8,28,19,4.6,30,0,46,316
+C1151,Programming,Beginner,499,22.0,99,7,4.6,0,0,2,160
+C1152,Business,Beginner,499,5.0,22,9,4.9,30,1,36,432
+C1153,Programming,Beginner,799,4.6,24,6,4.6,0,1,8,311
+C1154,Design,Beginner,1999,5.4,27,12,3.7,30,1,43,67
+C1155,Programming,Intermediate,499,13.7,77,20,5.0,40,1,20,374
+C1156,Language Learning,Intermediate,799,11.5,56,13,4.7,20,1,1,127
+C1157,Programming,Beginner,499,7.0,35,5,4.0,0,1,34,127
+C1158,Language Learning,Intermediate,1499,6.7,31,19,3.8,0,1,7,36
+C1159,Exam Preparation,Beginner,299,11.1,60,16,4.5,0,1,18,215
+C1160,Business,Advanced,299,10.1,46,9,4.1,0,1,24,137
+C1161,Exam Preparation,Beginner,799,8.4,47,3,4.4,20,0,36,235
+C1162,Exam Preparation,Intermediate,999,11.7,51,9,4.6,10,0,20,249
+C1163,Language Learning,Beginner,1499,5.3,28,17,4.0,0,1,41,101
+C1164,Data Science,Intermediate,999,6.0,34,12,3.7,0,1,23,74
+C1165,Business,Beginner,1499,11.9,65,4,4.4,50,0,17,113
+C1166,Programming,Intermediate,799,10.4,45,4,4.0,0,1,16,203
+C1167,Business,Beginner,0,3.1,16,20,4.3,10,0,38,293
+C1168,Programming,Advanced,299,9.2,37,9,3.6,20,0,32,41
+C1169,Business,Intermediate,0,21.6,79,14,4.1,0,0,6,189
+C1170,Business,Intermediate,499,12.8,70,8,4.6,50,1,36,235
+C1171,Web Development,Advanced,799,7.1,39,2,4.5,0,1,20,201
+C1172,Business,Advanced,499,6.2,22,9,3.9,30,1,17,62
+C1173,Exam Preparation,Beginner,999,10.7,63,14,3.7,20,1,5,74
+C1174,Exam Preparation,Beginner,799,15.2,70,7,4.3,40,1,47,360
+C1175,Web Development,Beginner,999,3.8,22,13,4.5,30,1,3,103
+C1176,Business,Beginner,999,10.3,56,9,4.4,30,1,47,149
+C1177,Language Learning,Intermediate,499,7.7,44,7,4.0,10,0,4,36
+C1178,Programming,Advanced,499,9.9,55,6,4.4,20,1,24,78
+C1179,Programming,Advanced,999,4.5,27,6,4.9,30,0,5,195
+C1180,Programming,Intermediate,999,15.2,77,6,4.3,20,1,24,146
+C1181,Business,Intermediate,499,17.2,70,15,3.5,20,1,40,87
+C1182,Web Development,Advanced,499,12.3,55,7,4.3,0,0,28,131
+C1183,Exam Preparation,Advanced,999,18.8,101,15,5.0,0,1,26,260
+C1184,Design,Beginner,999,7.5,29,7,3.7,10,1,6,40
+C1185,Data Science,Intermediate,299,10.2,59,7,4.3,0,1,45,169
+C1186,Exam Preparation,Advanced,799,12.4,50,19,4.1,10,0,18,82
+C1187,Exam Preparation,Beginner,1999,10.7,61,18,4.3,0,0,26,148
+C1188,Data Science,Beginner,0,8.0,38,9,4.3,20,1,43,482
+C1189,Web Development,Advanced,1999,8.4,47,6,4.8,30,1,30,113
+C1190,Data Science,Advanced,299,16.4,97,15,4.3,20,1,35,110
+C1191,Programming,Advanced,799,9.0,41,2,4.8,30,0,9,161
+C1192,Programming,Intermediate,799,14.8,78,10,4.2,0,1,22,133
+C1193,Language Learning,Beginner,0,8.7,35,12,4.1,0,1,26,232
+C1194,Web Development,Beginner,2999,14.8,81,14,3.9,30,1,9,55
+C1195,Web Development,Intermediate,799,9.4,52,3,3.4,40,0,19,44
+C1196,Design,Intermediate,2999,11.9,50,1,4.4,30,1,40,71
+C1197,Business,Intermediate,499,6.6,23,6,5.0,30,1,44,367
+C1198,Language Learning,Intermediate,1999,10.2,47,3,4.5,30,0,39,158
+C1199,Exam Preparation,Beginner,2999,6.6,26,11,4.6,30,0,44,161
+C1200,Web Development,Intermediate,799,7.5,42,19,4.1,30,0,47,242
+C1201,Web Development,Beginner,299,7.7,32,6,4.1,30,1,10,118
+C1202,Language Learning,Beginner,999,8.3,49,10,4.7,0,1,41,104
+C1203,Design,Beginner,799,14.0,83,5,5.0,0,1,30,284
+C1204,Language Learning,Beginner,2999,7.3,42,1,4.9,10,0,41,108
+C1205,Programming,Advanced,799,9.7,48,15,4.6,20,1,30,267
+C1206,Exam Preparation,Beginner,499,14.8,62,6,4.3,30,1,6,245
+C1207,Business,Beginner,299,11.8,65,11,4.3,10,1,27,86
+C1208,Programming,Intermediate,999,3.8,20,14,3.9,0,0,36,142
+C1209,Business,Intermediate,3999,4.4,26,17,3.6,30,1,6,19
+C1210,Design,Beginner,0,10.8,48,4,3.7,0,1,24,89
+C1211,Programming,Beginner,1499,7.2,26,12,4.3,40,1,31,286
+C1212,Web Development,Beginner,2999,4.1,25,19,4.1,0,1,22,65
+C1213,Exam Preparation,Intermediate,0,6.9,39,10,3.6,10,1,38,175
+C1214,Data Science,Beginner,299,11.0,45,1,4.2,10,1,6,242
+C1215,Web Development,Beginner,999,7.7,41,6,4.1,0,1,17,145
+C1216,Web Development,Beginner,999,9.3,33,16,3.7,0,1,45,63
+C1217,Data Science,Intermediate,0,8.0,39,16,4.1,0,1,25,326
+C1218,Language Learning,Beginner,1999,6.5,29,7,4.1,10,0,9,23
+C1219,Exam Preparation,Advanced,799,10.1,45,4,4.0,10,1,6,68
+C1220,Programming,Beginner,1999,3.9,16,6,4.7,30,1,28,398
+C1221,Language Learning,Intermediate,1999,6.1,26,5,3.4,0,0,44,11
+C1222,Exam Preparation,Beginner,1499,12.8,59,15,3.4,10,0,3,28
+C1223,Data Science,Beginner,799,4.5,19,17,4.3,0,0,6,104
+C1224,Exam Preparation,Beginner,499,9.1,42,1,4.3,50,1,18,167
+C1225,Programming,Intermediate,799,7.4,37,15,4.4,30,1,10,216
+C1226,Language Learning,Advanced,299,7.1,37,16,4.0,50,0,6,39
+C1227,Design,Beginner,999,13.4,70,13,3.8,40,1,15,99
+C1228,Business,Beginner,299,14.6,60,18,4.2,10,1,31,284
+C1229,Programming,Advanced,799,5.4,19,1,4.1,30,1,39,146
+C1230,Exam Preparation,Intermediate,0,8.4,47,14,4.9,10,1,15,395
+C1231,Programming,Beginner,499,3.4,19,3,4.1,40,1,33,321
+C1232,Data Science,Beginner,499,13.0,77,18,4.2,10,0,39,384
+C1233,Programming,Intermediate,999,8.8,52,10,5.0,10,0,1,376
+C1234,Exam Preparation,Intermediate,1499,4.3,22,2,4.2,40,1,41,104
+C1235,Programming,Intermediate,0,6.2,36,15,4.5,40,1,9,312
+C1236,Language Learning,Advanced,1999,5.2,24,15,4.5,50,1,33,59
+C1237,Business,Intermediate,1999,6.1,33,10,4.6,0,0,36,56
+C1238,Programming,Beginner,499,3.6,21,7,4.4,0,0,40,229
+C1239,Programming,Intermediate,999,16.3,89,1,4.3,10,1,19,193
+C1240,Programming,Beginner,799,5.5,25,19,4.3,10,0,31,347
+C1241,Business,Beginner,299,9.1,40,4,4.0,20,1,2,76
+C1242,Exam Preparation,Beginner,799,11.0,47,17,4.4,0,1,22,226
+C1243,Data Science,Beginner,0,14.6,64,12,5.0,30,0,46,931
+C1244,Exam Preparation,Intermediate,1999,9.2,51,14,4.8,0,0,8,83
+C1245,Programming,Beginner,2999,8.0,42,14,4.4,30,1,8,145
+C1246,Exam Preparation,Beginner,1499,9.4,39,18,4.6,40,1,33,317
+C1247,Language Learning,Intermediate,999,5.4,29,1,3.9,20,0,24,51
+C1248,Exam Preparation,Intermediate,799,5.6,25,20,4.1,10,1,22,148
+C1249,Design,Intermediate,3999,7.9,39,1,4.7,0,0,12,31
+C1250,Exam Preparation,Intermediate,499,3.0,13,20,4.9,0,0,9,281
+C1251,Programming,Intermediate,0,6.5,31,6,3.9,30,0,35,159
+C1252,Data Science,Beginner,999,7.2,38,17,4.0,20,0,17,177
+C1253,Programming,Intermediate,499,20.1,107,2,5.0,0,1,37,424
+C1254,Web Development,Intermediate,499,15.5,83,10,4.3,50,1,21,171
+C1255,Design,Beginner,0,10.9,49,11,5.0,30,0,19,596
+C1256,Business,Beginner,999,13.2,69,20,4.3,40,1,11,176
+C1257,Exam Preparation,Beginner,499,5.6,23,3,4.4,10,1,31,316
+C1258,Programming,Intermediate,299,9.5,45,1,4.1,50,1,14,105
+C1259,Design,Beginner,0,12.4,61,13,4.7,0,1,43,825
+C1260,Programming,Beginner,499,5.6,29,1,4.9,0,0,20,355
+C1261,Data Science,Intermediate,1999,4.4,25,16,3.8,40,1,39,73
+C1262,Design,Advanced,499,10.4,44,1,4.1,40,0,23,50
+C1263,Language Learning,Beginner,999,4.6,26,20,4.7,20,1,20,139
+C1264,Business,Advanced,1499,11.4,49,11,4.2,0,0,22,27
+C1265,Programming,Beginner,499,14.5,71,19,4.0,10,1,21,264
+C1266,Business,Advanced,1499,5.7,32,3,4.7,30,1,23,207
+C1267,Programming,Advanced,999,5.9,31,6,4.7,40,1,42,114
+C1268,Exam Preparation,Beginner,799,14.3,81,10,4.0,10,0,34,88
+C1269,Design,Intermediate,0,9.2,51,1,4.3,0,1,2,196
+C1270,Programming,Advanced,0,13.4,56,3,3.7,30,1,3,96
+C1271,Programming,Advanced,3999,8.0,48,7,3.8,30,1,2,26
+C1272,Programming,Advanced,1499,8.3,48,15,4.3,10,0,33,89
+C1273,Language Learning,Intermediate,2999,9.1,42,15,4.3,20,0,10,29
+C1274,Web Development,Beginner,1999,18.2,66,2,3.8,50,0,19,69
+C1275,Exam Preparation,Advanced,0,12.9,55,2,3.9,0,1,39,63
+C1276,Business,Intermediate,1499,6.4,36,14,3.8,20,1,7,30
+C1277,Business,Intermediate,799,9.8,58,8,4.5,20,1,8,172
+C1278,Programming,Beginner,1499,7.8,44,16,3.4,20,1,4,81
+C1279,Language Learning,Intermediate,0,7.1,32,6,3.8,40,1,14,170
+C1280,Data Science,Beginner,499,11.3,41,8,3.4,20,1,5,84
+C1281,Business,Intermediate,1499,10.2,49,5,4.4,20,1,30,50
+C1282,Design,Beginner,1499,5.7,25,6,3.4,0,1,35,27
+C1283,Business,Intermediate,999,9.1,35,15,4.3,30,0,9,144
+C1284,Language Learning,Advanced,499,7.0,26,10,5.0,0,1,25,307
+C1285,Programming,Intermediate,499,10.9,42,14,5.0,0,1,15,681
+C1286,Web Development,Intermediate,2999,6.9,28,2,3.4,20,1,4,17
+C1287,Web Development,Beginner,799,8.3,45,11,4.4,20,1,22,152
+C1288,Web Development,Advanced,799,7.2,32,10,3.8,50,1,33,77
+C1289,Programming,Intermediate,799,3.9,18,19,3.7,30,1,11,88
+C1290,Programming,Beginner,799,17.8,89,9,4.2,40,1,38,395
+C1291,Data Science,Beginner,799,9.1,54,3,4.8,10,1,47,402
+C1292,Data Science,Beginner,799,18.0,97,14,4.5,20,0,3,179
+C1293,Web Development,Intermediate,1499,9.3,48,3,3.9,50,0,8,67
+C1294,Business,Advanced,1999,12.2,65,19,4.6,10,1,14,86
+C1295,Business,Intermediate,2999,6.6,35,8,3.2,40,1,40,28
+C1296,Web Development,Beginner,999,6.7,35,16,3.9,20,0,7,68
+C1297,Web Development,Advanced,799,8.8,42,14,3.9,0,1,23,53
+C1298,Data Science,Beginner,999,18.0,89,10,4.3,20,1,26,346
+C1299,Business,Advanced,1999,5.8,27,12,4.2,0,1,7,18
+C1300,Data Science,Beginner,999,3.4,15,4,4.2,0,0,2,161
+C1301,Programming,Intermediate,999,14.2,59,2,4.2,0,1,6,52
+C1302,Web Development,Advanced,1499,12.5,55,16,4.3,0,0,3,45
+C1303,Web Development,Beginner,999,7.4,34,20,4.5,10,0,24,328
+C1304,Data Science,Intermediate,1499,21.2,105,18,4.3,40,0,45,148
+C1305,Business,Advanced,299,21.7,103,7,4.1,10,0,17,37
+C1306,Business,Beginner,799,3.7,14,8,4.4,40,0,13,148
+C1307,Design,Beginner,999,6.6,29,8,4.6,20,1,12,149
+C1308,Business,Intermediate,0,8.8,39,15,4.0,0,1,47,197
+C1309,Business,Beginner,1999,10.8,57,13,4.2,0,0,46,60
+C1310,Data Science,Beginner,999,10.1,44,16,4.8,50,1,31,480
+C1311,Exam Preparation,Intermediate,299,9.1,32,19,3.8,20,1,22,99
+C1312,Business,Intermediate,1499,5.4,20,8,5.0,50,1,8,446
+C1313,Web Development,Beginner,1499,11.4,54,14,3.6,10,1,44,75
+C1314,Business,Beginner,1499,11.7,46,11,4.1,30,0,1,59
+C1315,Web Development,Advanced,799,13.7,65,20,3.8,30,1,8,53
+C1316,Web Development,Intermediate,1999,5.1,25,8,5.0,50,1,32,561
+C1317,Design,Advanced,799,8.2,48,4,4.0,0,1,9,22
+C1318,Exam Preparation,Beginner,999,7.2,37,8,4.0,50,1,6,122
+C1319,Language Learning,Advanced,0,5.0,18,13,4.1,10,1,29,117
+C1320,Web Development,Intermediate,999,8.1,36,20,4.3,40,1,2,82
+C1321,Business,Beginner,1499,5.5,30,17,4.1,20,1,13,66
+C1322,Exam Preparation,Advanced,999,4.6,19,1,4.2,20,1,31,89
+C1323,Data Science,Intermediate,799,12.6,73,11,3.0,10,0,9,23
+C1324,Exam Preparation,Beginner,1499,7.4,36,4,4.3,40,0,36,155
+C1325,Web Development,Beginner,999,6.4,24,8,4.3,0,0,5,199
+C1326,Programming,Intermediate,499,15.2,62,19,4.7,20,0,29,351
+C1327,Programming,Beginner,2999,11.9,69,20,4.8,20,1,4,97
+C1328,Exam Preparation,Beginner,999,3.3,20,4,4.2,30,1,35,113
+C1329,Programming,Beginner,3999,10.8,61,3,4.6,20,0,36,81
+C1330,Data Science,Beginner,3999,10.8,46,14,3.8,30,0,38,43
+C1331,Data Science,Beginner,2999,8.0,43,9,4.6,20,0,14,112
+C1332,Programming,Intermediate,1499,7.8,32,9,4.0,30,1,12,104
+C1333,Data Science,Beginner,999,4.1,18,18,3.7,30,1,46,227
+C1334,Design,Beginner,299,21.1,111,19,4.2,30,1,35,164
+C1335,Programming,Intermediate,799,8.1,48,19,4.9,40,1,9,233
+C1336,Exam Preparation,Beginner,1499,10.6,49,16,4.3,20,1,2,176
+C1337,Exam Preparation,Intermediate,799,8.3,39,20,4.9,0,1,17,450
+C1338,Web Development,Beginner,1999,6.5,26,15,3.9,30,1,32,113
+C1339,Programming,Beginner,299,13.0,59,18,4.7,0,1,18,423
+C1340,Business,Beginner,499,9.7,35,11,4.0,0,1,38,162
+C1341,Programming,Intermediate,799,8.1,46,2,4.4,30,1,24,193
+C1342,Web Development,Beginner,799,10.5,37,17,4.3,10,1,47,116
+C1343,Language Learning,Intermediate,299,8.7,45,19,4.5,20,0,41,193
+C1344,Language Learning,Beginner,299,18.6,78,7,4.4,50,0,23,204
+C1345,Exam Preparation,Intermediate,1999,12.8,60,9,3.9,0,0,40,83
+C1346,Data Science,Intermediate,799,11.3,48,12,4.6,0,1,22,198
+C1347,Design,Beginner,0,4.3,19,14,5.0,0,1,1,469
+C1348,Design,Intermediate,0,11.5,56,14,4.0,0,0,15,155
+C1349,Web Development,Beginner,799,11.3,58,8,3.4,30,1,20,83
+C1350,Business,Beginner,299,5.6,33,18,4.5,30,1,46,275
+C1351,Programming,Beginner,999,4.2,18,17,4.1,20,1,39,192
+C1352,Data Science,Intermediate,1499,12.6,63,19,4.2,0,0,7,92
+C1353,Business,Advanced,499,13.3,77,12,4.5,20,0,1,100
+C1354,Programming,Beginner,999,6.7,28,2,4.0,0,1,25,206
+C1355,Programming,Intermediate,299,6.6,37,17,4.1,30,1,26,157
+C1356,Exam Preparation,Intermediate,499,9.6,57,2,4.2,20,1,35,141
+C1357,Language Learning,Beginner,1999,7.4,42,4,4.9,0,1,13,94
+C1358,Business,Intermediate,799,4.2,21,6,4.3,40,1,39,104
+C1359,Exam Preparation,Intermediate,1999,5.6,30,4,3.7,30,0,20,24
+C1360,Language Learning,Advanced,499,10.4,49,15,3.7,10,1,16,42
+C1361,Programming,Advanced,499,5.7,28,9,4.3,20,1,20,162
+C1362,Web Development,Beginner,799,13.6,81,5,3.7,20,0,45,90
+C1363,Web Development,Beginner,799,11.3,47,1,3.5,0,1,19,73
+C1364,Programming,Intermediate,3999,10.6,58,5,4.5,0,0,27,53
+C1365,Design,Beginner,299,9.5,45,14,4.6,30,1,42,434
+C1366,Web Development,Beginner,1999,6.3,25,16,4.1,50,0,1,77
+C1367,Web Development,Advanced,1999,12.0,61,6,4.4,20,1,26,60
+C1368,Programming,Beginner,799,6.2,34,2,4.3,20,1,34,211
+C1369,Programming,Intermediate,499,14.0,69,12,4.5,20,0,43,481
+C1370,Language Learning,Advanced,799,17.3,97,16,4.5,10,0,3,38
+C1371,Programming,Beginner,499,9.6,42,2,3.1,0,0,35,71
+C1372,Data Science,Intermediate,1499,16.2,94,16,4.1,10,0,38,153
+C1373,Data Science,Advanced,799,5.6,29,4,4.5,40,1,17,62
+C1374,Web Development,Intermediate,2999,11.3,62,6,4.1,40,1,36,97
+C1375,Business,Beginner,999,9.0,38,13,4.3,50,0,24,196
+C1376,Web Development,Beginner,799,12.7,59,2,4.6,0,1,31,247
+C1377,Programming,Advanced,1499,3.4,20,7,4.3,20,1,19,70
+C1378,Data Science,Beginner,799,12.4,45,3,4.9,20,0,9,238
+C1379,Exam Preparation,Intermediate,1999,6.6,30,5,4.8,0,0,39,107
+C1380,Business,Beginner,299,9.2,50,16,4.2,0,1,11,134
+C1381,Business,Beginner,3999,20.9,112,5,4.2,30,1,9,31
+C1382,Design,Advanced,1499,11.5,65,1,3.0,30,1,42,14
+C1383,Exam Preparation,Intermediate,1999,10.8,58,5,4.1,20,1,45,125
+C1384,Programming,Advanced,799,10.4,61,2,3.6,0,1,29,37
+C1385,Web Development,Beginner,1999,14.7,70,13,4.3,20,1,28,82
+C1386,Business,Intermediate,499,12.9,65,20,4.3,0,1,17,223
+C1387,Data Science,Advanced,1499,10.5,59,4,4.6,0,1,29,113
+C1388,Exam Preparation,Beginner,299,9.9,52,15,4.9,20,0,29,382
+C1389,Web Development,Beginner,499,9.6,36,8,4.2,10,1,25,206
+C1390,Exam Preparation,Advanced,799,8.7,38,2,5.0,50,1,31,267
+C1391,Exam Preparation,Beginner,499,5.0,24,14,4.4,20,1,27,209
+C1392,Web Development,Intermediate,499,11.4,61,5,3.7,0,1,42,114
+C1393,Language Learning,Advanced,1499,6.9,34,11,4.0,0,1,32,27
+C1394,Business,Beginner,499,8.3,45,11,4.1,30,1,19,126
+C1395,Exam Preparation,Beginner,1499,13.3,74,12,4.5,0,1,31,84
+C1396,Data Science,Beginner,0,8.8,37,3,3.8,0,1,11,318
+C1397,Web Development,Beginner,1499,8.5,43,6,4.1,10,1,11,91
+C1398,Business,Beginner,1499,9.7,47,15,4.2,0,1,39,138
+C1399,Programming,Intermediate,799,7.8,32,19,4.0,20,0,28,160
+C1400,Web Development,Beginner,1499,20.7,98,1,4.6,20,0,3,142
+C1401,Language Learning,Intermediate,2999,19.4,95,9,4.5,0,1,17,39
+C1402,Business,Beginner,1499,19.1,106,18,4.8,30,1,47,285
+C1403,Programming,Beginner,799,10.4,48,6,4.1,10,1,30,135
+C1404,Data Science,Beginner,799,6.7,25,9,4.8,20,1,41,265
+C1405,Programming,Intermediate,1499,13.5,64,19,3.6,0,1,26,69
+C1406,Programming,Intermediate,499,7.8,44,20,3.6,20,1,3,62
+C1407,Language Learning,Beginner,1499,14.0,69,14,3.7,0,0,9,56
+C1408,Web Development,Advanced,499,6.6,28,14,4.3,20,1,5,114
+C1409,Data Science,Intermediate,1499,10.8,63,13,4.8,0,1,35,188
+C1410,Business,Beginner,0,14.9,58,6,4.0,50,1,36,218
+C1411,Programming,Advanced,0,8.0,35,18,4.0,0,1,22,231
+C1412,Data Science,Beginner,3999,8.0,37,1,4.2,40,1,35,84
+C1413,Design,Beginner,1999,4.4,24,2,4.5,40,1,26,134
+C1414,Business,Intermediate,1999,6.7,37,13,4.0,10,1,35,58
+C1415,Language Learning,Beginner,2999,10.3,38,17,4.0,10,1,32,27
+C1416,Business,Beginner,799,11.1,61,17,3.6,10,1,22,38
+C1417,Web Development,Intermediate,499,11.8,63,14,4.0,50,0,31,126
+C1418,Exam Preparation,Beginner,299,3.7,21,8,4.8,20,0,15,340
+C1419,Language Learning,Intermediate,799,7.8,45,8,4.3,20,0,36,81
+C1420,Design,Advanced,499,4.7,26,9,3.9,0,1,43,81
+C1421,Language Learning,Intermediate,2999,10.1,40,6,4.8,40,0,10,73
+C1422,Exam Preparation,Intermediate,0,4.1,18,9,4.0,0,1,32,362
+C1423,Exam Preparation,Intermediate,299,5.3,31,3,4.9,0,1,6,346
+C1424,Programming,Advanced,499,12.8,64,7,4.9,0,1,18,373
+C1425,Design,Beginner,299,7.0,34,19,4.3,20,1,32,126
+C1426,Web Development,Beginner,499,16.3,94,15,3.6,40,1,14,105
+C1427,Business,Intermediate,999,11.9,68,3,5.0,30,0,12,287
+C1428,Business,Intermediate,499,8.0,43,6,4.4,0,1,19,150
+C1429,Language Learning,Beginner,999,13.7,78,6,4.1,10,1,6,85
+C1430,Language Learning,Intermediate,1999,8.3,31,6,4.7,30,1,30,71
+C1431,Data Science,Beginner,999,12.5,67,14,4.6,20,1,7,490
+C1432,Design,Advanced,999,6.5,38,18,4.8,0,0,16,73
+C1433,Design,Beginner,499,14.1,51,15,4.0,10,1,15,53
+C1434,Data Science,Beginner,299,4.2,17,10,4.4,20,0,46,228
+C1435,Programming,Beginner,499,5.3,29,4,3.7,50,1,47,58
+C1436,Programming,Beginner,2999,5.7,27,3,4.5,30,0,4,58
+C1437,Exam Preparation,Beginner,999,6.8,25,17,4.2,0,1,8,300
+C1438,Web Development,Beginner,499,10.5,44,14,4.4,30,0,35,229
+C1439,Language Learning,Beginner,799,9.0,39,11,4.2,0,0,15,52
+C1440,Web Development,Beginner,1999,12.5,54,12,4.1,40,0,31,128
+C1441,Language Learning,Beginner,999,15.0,85,17,3.9,10,1,44,63
+C1442,Web Development,Beginner,999,4.0,21,17,4.6,0,0,8,232
+C1443,Exam Preparation,Beginner,1999,15.9,85,2,4.9,20,1,46,168
+C1444,Programming,Beginner,999,8.3,29,8,4.0,0,0,3,96
+C1445,Business,Beginner,999,19.0,87,1,4.5,0,1,11,79
+C1446,Exam Preparation,Beginner,299,6.4,27,8,4.4,20,0,24,547
+C1447,Language Learning,Beginner,299,3.5,20,13,4.3,30,1,42,192
+C1448,Exam Preparation,Intermediate,2999,12.0,71,5,3.6,40,0,27,36
+C1449,Programming,Advanced,999,11.7,53,4,3.7,10,0,7,36
+C1450,Web Development,Advanced,799,5.4,32,10,3.9,0,0,12,40
+C1451,Programming,Intermediate,999,5.6,20,11,3.3,20,0,36,39
+C1452,Programming,Intermediate,0,13.0,56,15,4.9,10,1,27,673
+C1453,Design,Beginner,1499,10.7,58,1,4.4,0,0,1,106
+C1454,Design,Intermediate,299,7.9,35,5,4.2,40,1,24,100
+C1455,Exam Preparation,Intermediate,1499,11.2,65,16,3.3,50,1,20,25
+C1456,Exam Preparation,Advanced,799,10.3,42,14,3.4,0,0,1,16
+C1457,Design,Advanced,499,5.9,32,18,4.2,30,1,12,99
+C1458,Exam Preparation,Beginner,0,13.4,54,17,5.0,20,0,44,808
+C1459,Programming,Intermediate,1499,12.2,49,17,3.9,0,0,34,82
+C1460,Data Science,Intermediate,299,9.1,42,11,4.6,20,0,4,294
+C1461,Business,Beginner,0,13.0,76,20,4.0,0,0,1,126
+C1462,Exam Preparation,Advanced,1499,20.1,100,9,4.3,0,0,17,67
+C1463,Programming,Beginner,499,5.6,28,19,4.8,50,1,22,418
+C1464,Web Development,Advanced,499,8.0,28,8,4.1,20,1,22,126
+C1465,Design,Intermediate,499,8.2,30,9,3.9,0,1,33,69
+C1466,Programming,Beginner,1999,12.8,47,14,4.9,20,0,9,206
+C1467,Web Development,Intermediate,499,6.8,38,8,4.3,50,1,3,183
+C1468,Exam Preparation,Beginner,299,12.5,51,3,4.7,10,1,32,464
+C1469,Design,Intermediate,499,7.2,31,18,3.9,40,0,43,77
+C1470,Data Science,Intermediate,299,5.3,27,10,4.9,40,1,8,276
+C1471,Exam Preparation,Intermediate,499,9.4,47,19,4.4,10,0,17,295
+C1472,Data Science,Advanced,0,7.1,32,8,4.4,30,1,30,367
+C1473,Exam Preparation,Beginner,299,9.8,34,20,4.3,30,1,8,185
+C1474,Data Science,Beginner,799,10.9,50,13,4.0,30,1,41,152
+C1475,Business,Beginner,1999,4.2,22,16,4.2,10,1,11,100
+C1476,Web Development,Beginner,0,7.5,31,16,4.1,0,1,26,408
+C1477,Data Science,Beginner,299,9.4,50,5,4.7,0,0,16,291
+C1478,Exam Preparation,Beginner,1999,13.0,46,17,4.2,20,1,32,138
+C1479,Programming,Beginner,1999,12.3,71,19,3.6,30,0,10,72
+C1480,Programming,Beginner,999,6.1,36,14,3.5,30,0,5,61
+C1481,Data Science,Advanced,499,8.4,29,19,3.5,20,0,24,90
+C1482,Design,Beginner,799,11.1,52,17,4.5,0,1,41,300
+C1483,Exam Preparation,Advanced,299,8.1,37,14,3.7,0,1,30,86
+C1484,Language Learning,Beginner,299,6.4,36,10,4.4,30,1,36,293
+C1485,Data Science,Beginner,499,8.9,43,18,4.3,20,1,21,280
+C1486,Web Development,Intermediate,999,10.7,54,4,4.2,30,0,7,120
+C1487,Programming,Beginner,499,5.9,24,12,4.4,0,1,21,392
+C1488,Business,Beginner,999,11.7,43,17,4.3,10,0,47,207
+C1489,Language Learning,Intermediate,499,9.6,50,19,3.0,40,1,37,48
+C1490,Design,Beginner,499,11.9,60,6,4.1,0,0,34,135
+C1491,Business,Beginner,1499,8.8,49,2,4.4,0,1,15,193
+C1492,Web Development,Intermediate,1999,18.7,105,7,5.0,30,1,29,206
+C1493,Language Learning,Beginner,499,10.6,54,18,5.0,20,1,30,357
+C1494,Web Development,Intermediate,999,12.5,61,11,3.6,50,0,31,74
+C1495,Programming,Beginner,499,11.7,68,2,4.1,40,0,42,168
+C1496,Web Development,Advanced,0,8.4,46,3,3.5,30,1,33,49
+C1497,Programming,Intermediate,1499,10.1,58,7,4.9,0,0,11,284
+C1498,Data Science,Advanced,299,6.9,41,7,4.7,20,0,11,112
+C1499,Programming,Advanced,799,18.0,81,3,4.4,40,1,30,157
+C1500,Web Development,Beginner,799,11.1,59,10,4.3,10,1,41,135
+C1501,Business,Intermediate,299,6.2,32,10,4.9,50,1,45,384
+C1502,Data Science,Beginner,0,16.1,63,4,4.8,30,1,29,607
+C1503,Web Development,Intermediate,499,8.6,44,5,4.8,0,0,25,178
+C1504,Language Learning,Intermediate,2999,13.3,61,14,4.5,20,1,39,72
+C1505,Design,Beginner,999,4.1,19,20,4.1,30,0,46,82
+C1506,Business,Advanced,499,14.8,58,20,4.6,0,1,2,86
+C1507,Data Science,Beginner,0,10.9,58,12,4.6,10,1,15,667
+C1508,Exam Preparation,Intermediate,999,6.0,31,1,4.2,30,0,16,120
+C1509,Data Science,Intermediate,0,10.8,52,18,4.1,0,0,27,236
+C1510,Data Science,Beginner,799,17.2,67,20,4.8,10,1,14,260
+C1511,Language Learning,Intermediate,1499,7.0,34,6,5.0,30,1,15,158
+C1512,Business,Intermediate,799,6.9,26,9,3.9,30,1,2,69
+C1513,Design,Beginner,499,8.3,36,1,4.1,20,1,1,130
+C1514,Business,Intermediate,0,9.3,41,17,4.4,50,1,22,226
+C1515,Business,Beginner,0,13.7,78,16,4.5,50,0,47,367
+C1516,Data Science,Intermediate,799,11.2,51,1,4.0,20,1,14,162
+C1517,Data Science,Beginner,1999,8.3,41,15,5.0,0,1,12,477
+C1518,Data Science,Advanced,499,10.3,59,9,4.4,30,0,13,86
+C1519,Programming,Advanced,999,18.5,84,11,4.5,0,0,46,95
+C1520,Exam Preparation,Beginner,999,12.0,69,5,5.0,40,1,32,505
+C1521,Data Science,Beginner,0,8.7,33,17,4.0,20,1,31,320
+C1522,Business,Intermediate,299,8.2,36,9,4.2,10,1,9,81
+C1523,Exam Preparation,Intermediate,499,10.1,38,17,3.7,20,1,43,113
+C1524,Exam Preparation,Beginner,999,13.6,67,3,4.2,20,1,10,213
+C1525,Web Development,Beginner,799,6.5,38,12,3.6,50,1,46,72
+C1526,Web Development,Beginner,1499,12.8,66,7,4.6,0,0,45,305
+C1527,Language Learning,Advanced,1999,8.6,44,20,4.4,50,0,27,58
+C1528,Design,Intermediate,1499,9.2,39,12,4.1,0,1,41,75
+C1529,Exam Preparation,Advanced,3999,25.2,147,15,4.2,30,1,47,62
+C1530,Language Learning,Intermediate,1499,12.2,57,2,4.6,40,1,28,146
+C1531,Exam Preparation,Advanced,1999,7.2,30,14,3.7,10,1,37,32
+C1532,Programming,Beginner,1999,10.9,65,3,4.3,0,1,28,165
+C1533,Business,Beginner,1499,13.9,63,8,4.6,40,1,25,193
+C1534,Programming,Advanced,1499,12.3,54,5,3.4,40,1,16,47
+C1535,Business,Advanced,2999,3.2,11,1,4.6,10,0,31,34
+C1536,Language Learning,Beginner,799,9.0,36,12,3.5,20,1,13,66
+C1537,Web Development,Beginner,999,11.1,61,5,4.2,40,1,10,94
+C1538,Web Development,Intermediate,799,10.7,50,11,3.7,0,1,13,51
+C1539,Programming,Beginner,1999,7.5,44,16,4.9,20,0,1,115
+C1540,Language Learning,Beginner,799,12.3,46,4,3.7,10,1,44,66
+C1541,Programming,Advanced,1499,14.8,75,15,3.5,0,0,13,17
+C1542,Programming,Beginner,1499,4.2,22,6,4.3,40,1,38,155
+C1543,Data Science,Intermediate,2999,4.0,20,7,4.1,10,0,21,30
+C1544,Programming,Beginner,499,10.8,52,12,3.6,50,1,16,211
+C1545,Web Development,Beginner,999,12.8,63,13,4.5,20,1,11,155
+C1546,Web Development,Intermediate,1499,7.0,37,14,3.4,20,0,39,29
+C1547,Data Science,Beginner,2999,3.3,19,4,3.8,10,1,25,51
+C1548,Programming,Intermediate,1999,9.1,40,12,4.0,10,0,22,131
+C1549,Programming,Beginner,999,10.8,50,6,4.6,40,1,31,333
+C1550,Web Development,Advanced,999,8.0,41,6,4.8,30,1,38,195
+C1551,Programming,Intermediate,299,14.1,60,19,4.7,30,1,31,669
+C1552,Design,Advanced,3999,10.5,41,3,4.2,10,1,22,24
+C1553,Data Science,Beginner,499,6.6,39,9,3.2,0,0,43,73
+C1554,Data Science,Beginner,1499,6.9,28,9,4.4,0,1,43,143
+C1555,Web Development,Beginner,1499,9.2,38,5,4.9,30,1,46,397
+C1556,Web Development,Intermediate,799,7.8,39,16,4.8,10,1,5,139
+C1557,Programming,Beginner,299,3.9,14,10,4.5,20,0,42,239
+C1558,Programming,Beginner,299,10.1,36,15,3.7,20,1,10,214
+C1559,Exam Preparation,Beginner,1999,7.0,26,8,4.0,10,1,30,130
+C1560,Programming,Beginner,799,7.6,29,18,5.0,30,1,31,704
+C1561,Web Development,Beginner,0,5.6,26,15,3.6,20,1,10,86
+C1562,Web Development,Beginner,1499,17.4,97,7,3.7,50,0,1,38
+C1563,Data Science,Beginner,499,11.9,52,20,4.7,0,0,45,319
+C1564,Web Development,Intermediate,1999,19.4,89,18,4.1,20,1,42,90
+C1565,Exam Preparation,Beginner,499,8.0,40,12,3.7,0,1,9,56
+C1566,Exam Preparation,Beginner,299,12.2,52,1,4.9,40,0,29,359
+C1567,Data Science,Intermediate,0,10.2,47,12,4.5,20,0,8,628
+C1568,Data Science,Intermediate,799,6.8,30,14,4.1,10,1,27,174
+C1569,Data Science,Beginner,799,7.9,34,8,3.7,40,1,15,118
+C1570,Web Development,Intermediate,1499,11.9,53,3,5.0,20,1,36,201
+C1571,Design,Advanced,799,5.6,20,12,4.2,0,1,27,38
+C1572,Data Science,Intermediate,499,14.1,81,17,4.9,20,0,24,257
+C1573,Data Science,Advanced,499,9.8,58,7,4.7,0,1,33,121
+C1574,Language Learning,Intermediate,499,13.3,75,10,4.0,40,1,23,96
+C1575,Programming,Beginner,2999,10.8,38,1,4.0,30,0,1,56
+C1576,Web Development,Beginner,299,4.2,23,15,4.9,30,1,29,368
+C1577,Design,Intermediate,3999,9.0,44,18,4.9,40,1,37,121
+C1578,Programming,Advanced,499,14.3,53,16,3.4,30,1,24,108
+C1579,Programming,Intermediate,0,9.7,57,9,4.5,10,1,9,789
+C1580,Programming,Beginner,499,9.1,50,1,4.2,0,1,1,186
+C1581,Language Learning,Intermediate,0,9.7,37,10,3.8,10,1,14,107
+C1582,Programming,Beginner,1499,3.8,22,19,4.4,50,0,37,305
+C1583,Programming,Intermediate,799,14.9,57,2,3.6,50,0,16,112
+C1584,Programming,Intermediate,499,3.0,14,5,4.0,30,0,45,60
+C1585,Programming,Intermediate,999,16.3,64,17,3.9,0,1,16,170
+C1586,Business,Advanced,999,7.7,30,12,4.0,0,1,21,45
+C1587,Data Science,Intermediate,2999,11.1,66,4,4.2,40,1,36,82
+C1588,Business,Intermediate,2999,3.6,18,1,3.8,0,0,29,17
+C1589,Business,Intermediate,999,12.7,53,9,5.0,20,1,2,207
+C1590,Exam Preparation,Advanced,1499,11.8,64,12,4.5,10,0,4,45
+C1591,Programming,Advanced,1499,11.5,65,17,5.0,10,1,10,175
+C1592,Exam Preparation,Beginner,799,3.6,21,18,4.2,30,1,41,231
+C1593,Business,Intermediate,999,6.3,37,10,4.0,50,0,2,61
+C1594,Programming,Beginner,0,10.8,62,9,5.0,30,0,4,787
+C1595,Exam Preparation,Advanced,1499,14.7,75,19,4.0,20,1,37,64
+C1596,Exam Preparation,Intermediate,2999,5.9,26,16,4.2,10,1,30,76
+C1597,Data Science,Beginner,0,6.0,35,5,4.6,40,0,47,786
+C1598,Language Learning,Beginner,1999,10.5,40,14,3.7,20,1,11,56
+C1599,Web Development,Beginner,2999,24.1,95,15,4.6,20,1,31,151
+C1600,Business,Intermediate,499,6.8,31,5,4.5,30,1,7,177
+C1601,Language Learning,Beginner,799,7.7,32,20,4.8,0,0,28,290
+C1602,Web Development,Beginner,2999,7.2,36,6,4.7,0,1,5,201
+C1603,Exam Preparation,Advanced,2999,8.6,50,11,4.8,40,0,43,156
+C1604,Data Science,Intermediate,299,15.3,72,10,4.2,20,1,20,186
+C1605,Exam Preparation,Beginner,499,8.8,43,14,3.9,0,1,12,86
+C1606,Business,Beginner,999,25.2,115,19,5.0,0,0,47,230
+C1607,Data Science,Advanced,499,9.6,51,8,3.6,50,0,4,39
+C1608,Web Development,Intermediate,499,15.9,60,8,3.6,20,1,38,106
+C1609,Data Science,Intermediate,0,8.0,29,16,4.5,20,1,24,416
+C1610,Programming,Beginner,299,5.0,26,20,5.0,0,1,33,1015
+C1611,Programming,Beginner,999,8.8,43,19,4.3,50,1,13,149
+C1612,Data Science,Beginner,999,11.5,52,16,4.7,40,1,42,240
+C1613,Programming,Intermediate,999,6.4,28,15,3.4,20,1,22,65
+C1614,Programming,Beginner,1499,14.8,54,16,4.0,10,1,20,98
+C1615,Design,Beginner,799,7.3,38,19,3.4,30,1,22,39
+C1616,Design,Intermediate,499,5.6,26,1,4.6,40,1,14,110
+C1617,Design,Advanced,0,22.9,106,12,3.6,30,1,15,48
+C1618,Data Science,Intermediate,299,6.2,36,1,3.7,50,0,7,68
+C1619,Exam Preparation,Intermediate,499,7.2,38,12,4.5,20,1,23,178
+C1620,Business,Intermediate,299,12.4,50,8,4.7,10,0,23,174
+C1621,Programming,Beginner,0,7.8,40,7,4.2,20,1,18,398
+C1622,Programming,Beginner,299,5.7,22,18,4.5,40,1,47,573
+C1623,Design,Intermediate,999,6.9,27,15,4.5,0,0,6,135
+C1624,Programming,Beginner,999,20.0,106,12,4.2,0,1,43,191
+C1625,Web Development,Intermediate,2999,11.7,45,18,3.8,30,0,41,57
+C1626,Language Learning,Advanced,1499,12.8,54,2,4.5,10,1,2,42
+C1627,Programming,Advanced,999,10.3,59,13,4.5,40,1,33,222
+C1628,Programming,Beginner,299,11.1,59,4,4.7,0,1,10,388
+C1629,Language Learning,Beginner,999,7.6,44,5,4.4,10,1,2,136
+C1630,Business,Beginner,0,9.7,55,4,3.7,0,0,41,75
+C1631,Programming,Beginner,799,3.4,15,11,4.6,30,1,6,224
+C1632,Exam Preparation,Beginner,799,13.9,71,13,4.2,30,1,15,191
+C1633,Exam Preparation,Beginner,799,7.5,33,16,4.0,20,0,5,93
+C1634,Business,Intermediate,499,5.2,27,9,4.1,20,1,7,59
+C1635,Business,Intermediate,999,9.9,43,19,3.9,0,0,3,31
+C1636,Data Science,Advanced,1999,8.4,29,8,4.6,30,1,40,171
+C1637,Programming,Beginner,1499,13.6,51,4,3.6,50,0,3,47
+C1638,Business,Beginner,999,8.9,48,1,3.8,30,1,36,45
+C1639,Data Science,Beginner,799,6.9,26,3,4.1,0,0,8,140
+C1640,Design,Beginner,0,9.0,45,9,5.0,20,0,44,669
+C1641,Exam Preparation,Beginner,1499,16.8,95,9,4.7,0,1,40,199
+C1642,Programming,Advanced,799,13.8,74,18,3.5,0,1,30,44
+C1643,Business,Beginner,499,11.7,53,3,4.9,0,0,39,272
+C1644,Data Science,Beginner,499,14.1,57,6,4.9,0,1,15,624
+C1645,Exam Preparation,Intermediate,2999,12.1,70,20,3.7,0,1,37,20
+C1646,Data Science,Intermediate,999,6.0,29,1,3.1,30,1,11,20
+C1647,Business,Intermediate,799,12.8,58,9,4.2,0,0,29,79
+C1648,Business,Beginner,999,14.9,87,4,4.8,30,1,44,260
+C1649,Web Development,Intermediate,799,15.2,61,11,5.0,50,1,35,363
+C1650,Design,Beginner,799,5.4,25,20,3.9,20,0,13,90
+C1651,Design,Beginner,499,7.3,28,5,5.0,20,1,35,480
+C1652,Business,Intermediate,799,6.8,26,8,3.2,30,1,42,43
+C1653,Design,Advanced,999,7.9,36,9,4.1,0,0,42,58
+C1654,Language Learning,Beginner,0,11.2,59,16,4.1,10,1,35,285
+C1655,Web Development,Intermediate,1499,9.8,43,20,4.8,20,0,35,236
+C1656,Web Development,Beginner,499,9.8,51,2,4.8,40,1,37,263
+C1657,Programming,Beginner,999,4.8,26,10,4.7,40,1,35,259
+C1658,Exam Preparation,Beginner,999,7.1,40,16,3.6,40,1,7,46
+C1659,Business,Intermediate,999,15.8,57,1,4.6,30,1,38,152
+C1660,Web Development,Beginner,999,14.8,80,17,4.5,20,1,9,233
+C1661,Programming,Intermediate,2999,8.9,34,5,3.5,40,0,27,24
+C1662,Exam Preparation,Beginner,799,12.8,67,11,3.3,40,0,16,58
+C1663,Web Development,Advanced,1499,10.7,47,20,4.7,20,0,11,87
+C1664,Design,Advanced,999,13.5,71,13,4.2,50,0,14,42
+C1665,Programming,Beginner,499,13.1,53,20,3.7,40,1,4,98
+C1666,Language Learning,Beginner,499,9.2,47,13,4.2,20,0,21,79
+C1667,Programming,Beginner,799,11.7,45,5,4.4,0,0,20,253
+C1668,Programming,Advanced,499,11.0,43,14,4.2,0,1,19,125
+C1669,Exam Preparation,Beginner,499,9.3,47,13,3.6,30,0,5,91
+C1670,Language Learning,Intermediate,799,8.4,36,7,5.0,0,0,29,158
+C1671,Data Science,Beginner,999,18.7,98,2,4.7,20,0,8,168
+C1672,Web Development,Intermediate,299,9.3,48,13,4.1,20,0,41,295
+C1673,Design,Intermediate,1499,12.5,63,12,4.1,40,1,2,34
+C1674,Exam Preparation,Intermediate,799,18.0,96,16,4.4,40,1,3,216
+C1675,Web Development,Advanced,999,11.7,64,3,3.7,30,1,15,91
+C1676,Web Development,Beginner,0,11.5,66,11,4.4,10,1,20,664
+C1677,Design,Advanced,799,9.3,34,17,3.7,0,1,46,39
+C1678,Design,Beginner,0,11.1,55,18,4.2,30,1,25,520
+C1679,Exam Preparation,Intermediate,999,8.1,44,19,3.7,0,1,18,63
+C1680,Business,Advanced,499,26.7,108,5,3.7,20,1,40,33
+C1681,Programming,Intermediate,2999,4.8,20,4,5.0,50,1,12,180
+C1682,Language Learning,Intermediate,499,8.6,36,12,4.3,20,0,43,89
+C1683,Exam Preparation,Beginner,999,11.8,58,10,4.3,20,0,19,112
+C1684,Exam Preparation,Beginner,499,11.5,51,5,3.3,30,0,15,82
+C1685,Programming,Beginner,999,8.1,42,3,4.0,40,1,15,108
+C1686,Data Science,Intermediate,799,4.1,21,3,4.5,10,0,1,111
+C1687,Design,Intermediate,499,5.2,27,7,4.3,20,1,32,73
+C1688,Programming,Beginner,299,10.1,42,15,3.3,0,1,28,106
+C1689,Language Learning,Beginner,299,3.5,19,2,4.3,20,1,30,93
+C1690,Web Development,Beginner,299,12.2,63,3,4.4,0,0,31,158
+C1691,Design,Beginner,3999,15.4,59,6,4.8,20,1,2,50
+C1692,Exam Preparation,Beginner,799,13.2,53,18,4.0,30,0,42,214
+C1693,Web Development,Advanced,0,14.3,61,20,3.2,0,1,25,103
+C1694,Data Science,Intermediate,2999,3.6,21,9,3.8,20,1,33,55
+C1695,Business,Beginner,0,8.2,35,1,3.8,0,1,2,115
+C1696,Business,Intermediate,799,5.8,21,1,4.6,0,1,36,131
+C1697,Web Development,Advanced,1499,4.4,17,18,3.0,0,1,32,27
+C1698,Business,Beginner,2999,7.5,27,9,4.0,0,1,18,30
+C1699,Language Learning,Beginner,1499,17.8,80,2,4.9,50,0,44,257
+C1700,Web Development,Beginner,799,20.1,110,17,4.3,50,0,31,331
+C1701,Programming,Beginner,3999,6.1,28,11,4.7,30,0,43,91
+C1702,Web Development,Intermediate,0,9.6,54,7,3.5,20,1,39,118
+C1703,Web Development,Advanced,3999,11.1,40,10,3.5,30,1,10,13
+C1704,Programming,Beginner,1999,8.3,39,5,4.9,40,1,47,210
+C1705,Programming,Intermediate,2999,15.9,87,19,4.3,20,1,35,85
+C1706,Design,Beginner,499,7.5,39,16,4.3,0,1,9,200
+C1707,Data Science,Intermediate,299,7.0,39,4,3.7,30,0,38,65
+C1708,Language Learning,Intermediate,999,6.3,26,15,4.3,50,0,21,157
+C1709,Data Science,Beginner,799,8.2,39,4,3.7,0,1,41,92
+C1710,Programming,Beginner,799,2.5,13,10,4.8,20,1,9,630
+C1711,Design,Intermediate,2999,8.4,33,15,5.0,10,1,13,69
+C1712,Exam Preparation,Advanced,999,9.9,55,1,4.5,10,0,17,83
+C1713,Data Science,Beginner,499,10.1,43,15,4.0,30,1,22,149
+C1714,Data Science,Beginner,799,5.6,21,5,3.1,10,1,30,44
+C1715,Programming,Beginner,299,10.0,54,14,3.5,50,1,11,174
+C1716,Business,Intermediate,299,10.0,53,10,4.9,30,0,34,323
+C1717,Web Development,Intermediate,299,10.1,58,1,3.8,0,1,2,105
+C1718,Data Science,Intermediate,1499,13.3,76,16,4.1,40,1,16,83
+C1719,Programming,Intermediate,999,5.5,23,6,4.5,30,1,31,276
+C1720,Web Development,Advanced,799,8.3,42,20,4.9,20,1,13,157
+C1721,Language Learning,Intermediate,499,3.9,23,17,4.2,20,1,21,66
+C1722,Business,Beginner,999,12.7,52,4,4.1,40,1,29,143
+C1723,Web Development,Intermediate,1499,5.9,28,13,4.3,10,1,12,112
+C1724,Programming,Beginner,1999,14.2,82,8,4.0,0,1,46,98
+C1725,Data Science,Beginner,799,14.4,54,13,4.0,10,0,40,193
+C1726,Data Science,Advanced,1499,8.7,51,12,4.4,0,0,46,122
+C1727,Exam Preparation,Intermediate,799,8.5,40,6,4.3,30,1,24,268
+C1728,Exam Preparation,Advanced,799,4.6,26,14,5.0,0,0,17,113
+C1729,Language Learning,Beginner,1999,9.4,48,6,4.4,20,0,47,141
+C1730,Language Learning,Intermediate,499,13.2,68,19,4.8,20,1,35,475
+C1731,Language Learning,Intermediate,799,10.6,58,19,3.8,40,1,38,69
+C1732,Language Learning,Beginner,499,16.8,62,4,4.5,20,0,9,64
+C1733,Programming,Beginner,799,7.9,40,15,3.9,50,0,41,99
+C1734,Programming,Intermediate,799,7.9,46,19,4.4,40,1,25,224
+C1735,Data Science,Beginner,999,6.1,36,3,4.6,0,1,37,508
+C1736,Business,Advanced,799,21.8,129,15,4.3,30,1,39,93
+C1737,Programming,Beginner,299,4.6,24,19,5.0,0,1,5,376
+C1738,Exam Preparation,Beginner,1999,12.8,65,5,4.9,40,0,5,144
+C1739,Business,Intermediate,499,13.4,65,12,4.8,20,1,4,119
+C1740,Business,Beginner,2999,13.1,66,16,4.6,0,0,31,104
+C1741,Programming,Advanced,299,6.4,32,7,5.0,0,1,44,317
+C1742,Data Science,Intermediate,999,5.0,18,5,3.6,10,0,2,85
+C1743,Programming,Beginner,799,8.7,32,8,4.9,40,0,7,399
+C1744,Exam Preparation,Intermediate,1499,12.0,61,7,3.8,30,0,23,89
+C1745,Business,Intermediate,299,7.0,30,15,4.0,0,1,19,97
+C1746,Design,Intermediate,1999,8.1,34,8,4.5,10,0,5,35
+C1747,Data Science,Intermediate,799,7.1,28,8,4.8,10,0,29,194
+C1748,Web Development,Intermediate,999,9.7,53,19,3.7,20,0,43,51
+C1749,Web Development,Intermediate,799,9.5,56,12,4.0,0,1,10,131
+C1750,Exam Preparation,Beginner,0,18.2,92,19,4.3,10,1,1,262
+C1751,Exam Preparation,Intermediate,799,12.1,71,15,4.2,40,1,11,192
+C1752,Data Science,Advanced,499,5.1,29,18,4.6,20,1,9,174
+C1753,Language Learning,Intermediate,499,5.3,21,4,5.0,30,1,22,210
+C1754,Programming,Intermediate,999,12.9,50,19,4.4,20,1,6,115
+C1755,Exam Preparation,Beginner,799,9.4,38,19,3.9,20,0,17,124
+C1756,Programming,Intermediate,0,21.2,79,1,3.7,20,1,6,119
+C1757,Data Science,Advanced,0,21.2,105,8,4.1,0,1,32,276
+C1758,Exam Preparation,Beginner,299,6.1,26,9,3.8,0,0,23,85
+C1759,Programming,Beginner,299,10.7,62,9,4.5,50,1,4,341
+C1760,Web Development,Intermediate,999,5.3,27,16,4.5,40,0,3,240
+C1761,Web Development,Intermediate,299,12.8,56,14,4.0,30,1,23,182
+C1762,Data Science,Intermediate,1999,19.4,116,5,5.0,0,1,28,262
+C1763,Design,Beginner,299,10.0,59,13,3.9,0,1,9,109
+C1764,Exam Preparation,Beginner,0,7.7,42,20,4.2,0,0,16,612
+C1765,Exam Preparation,Intermediate,1999,11.2,61,9,4.5,50,1,29,201
+C1766,Data Science,Intermediate,499,14.0,83,19,4.7,40,1,23,495
+C1767,Business,Intermediate,799,14.0,70,13,4.8,20,0,6,150
+C1768,Data Science,Intermediate,2999,7.8,44,19,4.4,50,1,19,111
+C1769,Data Science,Intermediate,2999,6.9,25,19,4.7,0,1,10,57
+C1770,Programming,Intermediate,1499,10.4,51,1,4.0,20,1,44,160
+C1771,Language Learning,Intermediate,0,8.0,38,17,4.7,0,1,38,272
+C1772,Exam Preparation,Intermediate,999,15.9,57,4,4.7,10,0,15,197
+C1773,Exam Preparation,Intermediate,3999,8.0,30,17,4.9,50,0,12,147
+C1774,Web Development,Beginner,2999,9.7,34,17,3.5,40,0,7,53
+C1775,Web Development,Beginner,299,11.1,47,6,3.8,0,0,35,106
+C1776,Business,Intermediate,799,4.7,17,2,4.6,0,1,44,112
+C1777,Business,Advanced,499,7.2,33,9,3.1,20,1,13,25
+C1778,Web Development,Intermediate,299,20.8,115,7,4.5,0,1,31,206
+C1779,Programming,Beginner,999,13.7,69,12,4.7,20,1,12,198
+C1780,Programming,Intermediate,499,7.9,41,2,4.0,20,1,44,282
+C1781,Language Learning,Beginner,499,12.8,46,1,4.1,0,0,15,61
+C1782,Web Development,Intermediate,0,15.8,88,9,3.8,0,1,5,105
+C1783,Language Learning,Intermediate,799,8.5,33,16,4.0,0,1,42,73
+C1784,Programming,Intermediate,299,13.4,57,7,4.0,50,1,45,275
+C1785,Business,Intermediate,799,12.6,60,7,3.9,10,1,19,36
+C1786,Data Science,Beginner,299,5.4,31,4,3.9,20,1,43,247
+C1787,Data Science,Beginner,2999,8.5,51,6,4.1,10,0,12,37
+C1788,Programming,Advanced,299,18.4,100,6,4.1,30,1,13,111
+C1789,Programming,Intermediate,799,20.5,109,6,5.0,0,1,26,279
+C1790,Language Learning,Intermediate,299,13.8,67,7,4.1,0,1,29,205
+C1791,Data Science,Beginner,0,7.1,37,6,4.4,30,1,19,498
+C1792,Business,Beginner,299,3.1,12,14,4.0,30,1,38,109
+C1793,Web Development,Beginner,0,6.7,28,7,4.0,0,1,38,281
+C1794,Web Development,Beginner,299,5.0,30,16,3.5,10,1,6,82
+C1795,Business,Beginner,799,19.0,113,13,3.5,50,1,47,80
+C1796,Programming,Advanced,999,3.9,17,13,3.7,0,1,8,52
+C1797,Language Learning,Intermediate,0,5.4,22,12,4.3,0,0,25,194
+C1798,Exam Preparation,Beginner,799,10.3,42,19,4.7,10,1,20,199
+C1799,Design,Beginner,999,9.4,44,6,3.4,0,1,22,38
+C1800,Web Development,Beginner,499,18.0,73,20,4.0,20,0,7,151
+C1801,Programming,Intermediate,499,12.2,62,5,3.6,30,1,17,72
+C1802,Language Learning,Beginner,0,8.8,32,3,4.1,20,0,2,157
+C1803,Data Science,Intermediate,499,16.0,60,17,4.7,20,0,46,311
+C1804,Programming,Intermediate,799,7.8,33,18,4.0,10,1,7,102
+C1805,Data Science,Beginner,3999,18.6,101,2,4.2,30,0,23,90
+C1806,Exam Preparation,Intermediate,3999,6.2,27,12,4.9,0,1,11,29
+C1807,Business,Advanced,3999,2.3,11,11,4.5,10,1,9,17
+C1808,Design,Beginner,799,9.2,47,5,3.9,30,0,19,113
+C1809,Exam Preparation,Beginner,0,3.3,18,11,4.3,10,0,46,647
+C1810,Data Science,Advanced,499,14.1,60,14,3.9,0,1,23,215
+C1811,Language Learning,Advanced,499,10.1,54,12,4.4,10,0,46,86
+C1812,Web Development,Intermediate,0,18.7,79,11,4.5,30,1,39,521
+C1813,Business,Intermediate,0,8.4,43,18,3.6,0,1,21,178
+C1814,Programming,Beginner,799,4.7,22,5,4.3,30,1,43,358
+C1815,Language Learning,Intermediate,499,11.5,67,13,4.2,30,1,17,120
+C1816,Data Science,Intermediate,299,7.3,43,7,4.5,20,1,24,374
+C1817,Programming,Beginner,1499,13.2,72,20,4.6,0,0,32,277
+C1818,Web Development,Intermediate,499,6.3,36,6,4.5,40,1,28,284
+C1819,Programming,Advanced,1999,17.1,66,18,4.1,0,1,39,47
+C1820,Programming,Intermediate,499,9.7,50,13,4.7,40,1,8,254
+C1821,Business,Beginner,799,8.8,35,5,3.9,30,0,24,75
+C1822,Web Development,Beginner,299,16.6,70,16,3.7,0,0,32,80
+C1823,Language Learning,Advanced,799,14.2,68,5,3.0,30,1,16,9
+C1824,Data Science,Advanced,299,6.7,36,6,4.2,20,0,41,99
+C1825,Design,Intermediate,299,14.0,74,7,3.9,20,1,15,69
+C1826,Web Development,Intermediate,999,12.7,72,14,4.4,10,1,15,169
+C1827,Business,Intermediate,499,9.0,44,8,3.4,20,1,16,57
+C1828,Business,Beginner,299,13.5,79,12,4.0,30,1,32,163
+C1829,Web Development,Beginner,2999,17.1,98,12,4.5,40,0,6,93
+C1830,Language Learning,Beginner,0,9.2,52,4,3.8,0,1,7,84
+C1831,Data Science,Beginner,999,9.2,37,5,4.4,20,1,37,321
+C1832,Programming,Advanced,799,8.9,43,7,4.0,30,0,10,65
+C1833,Design,Beginner,499,6.6,35,5,4.2,30,1,5,84
+C1834,Exam Preparation,Beginner,799,9.1,54,19,4.5,20,1,13,218
+C1835,Programming,Intermediate,0,8.7,31,8,4.7,10,0,19,385
+C1836,Web Development,Beginner,1499,8.4,36,9,4.3,30,1,2,101
+C1837,Exam Preparation,Beginner,499,8.4,37,14,3.9,10,0,40,105
+C1838,Design,Intermediate,299,5.4,23,16,4.0,0,1,6,66
+C1839,Language Learning,Beginner,499,14.9,83,14,4.5,20,1,19,233
+C1840,Business,Intermediate,1999,7.2,26,12,3.8,0,1,10,37
+C1841,Business,Advanced,1499,17.5,77,20,4.2,0,1,14,89
+C1842,Data Science,Beginner,2999,6.0,32,18,4.1,0,0,3,63
+C1843,Language Learning,Advanced,999,19.4,88,5,4.2,30,1,45,119
+C1844,Web Development,Advanced,999,8.0,31,4,3.8,50,0,45,73
+C1845,Design,Intermediate,799,14.1,71,8,3.4,20,1,6,38
+C1846,Web Development,Intermediate,1999,10.0,48,17,4.5,0,0,10,75
+C1847,Business,Intermediate,799,5.1,30,20,4.7,40,0,42,272
+C1848,Design,Intermediate,499,5.2,28,15,3.4,0,0,20,30
+C1849,Web Development,Intermediate,999,6.9,41,14,4.4,50,0,3,76
+C1850,Language Learning,Beginner,799,7.8,31,5,4.7,20,0,7,216
+C1851,Web Development,Advanced,299,9.3,50,12,4.5,0,0,20,96
+C1852,Business,Intermediate,799,11.0,54,4,4.1,20,1,27,120
+C1853,Data Science,Intermediate,499,8.7,46,11,3.8,10,1,30,90
+C1854,Web Development,Beginner,1999,10.7,50,4,4.3,30,0,8,144
+C1855,Web Development,Beginner,499,11.5,46,2,4.4,0,1,18,348
+C1856,Programming,Intermediate,1499,8.6,31,20,4.3,40,1,13,197
+C1857,Programming,Intermediate,799,12.6,71,18,4.2,30,1,26,328
+C1858,Design,Beginner,1499,13.9,77,14,3.8,40,0,16,61
+C1859,Business,Beginner,299,11.7,46,13,4.4,40,1,10,420
+C1860,Design,Beginner,2999,12.0,61,5,4.5,0,1,39,82
+C1861,Programming,Intermediate,799,10.3,55,12,4.3,20,0,27,131
+C1862,Data Science,Beginner,499,15.5,76,15,4.3,40,1,23,298
+C1863,Programming,Advanced,499,9.4,40,11,5.0,10,1,7,234
+C1864,Exam Preparation,Beginner,499,7.0,40,6,4.0,0,1,4,92
+C1865,Exam Preparation,Beginner,499,9.5,49,8,4.8,0,1,38,207
+C1866,Data Science,Beginner,1499,5.1,27,17,3.9,0,1,46,124
+C1867,Design,Intermediate,2999,4.9,25,6,4.7,40,1,28,60
+C1868,Programming,Intermediate,999,13.9,74,20,4.8,20,0,2,89
+C1869,Data Science,Intermediate,799,17.7,68,16,4.1,30,0,23,124
+C1870,Programming,Advanced,799,8.1,47,18,5.0,50,1,14,235
+C1871,Data Science,Beginner,1499,14.0,59,11,4.5,0,0,3,91
+C1872,Design,Intermediate,1999,4.0,22,5,3.9,30,1,7,12
+C1873,Language Learning,Beginner,499,3.7,21,1,4.1,0,0,24,63
+C1874,Data Science,Beginner,2999,15.7,81,11,4.8,0,1,21,129
+C1875,Business,Intermediate,799,11.7,58,8,4.7,0,1,27,157
+C1876,Design,Beginner,1499,9.4,35,3,3.8,10,1,33,66
+C1877,Language Learning,Intermediate,2999,19.0,87,19,4.2,10,1,13,55
+C1878,Business,Intermediate,999,8.8,44,20,4.3,20,1,14,140
+C1879,Data Science,Intermediate,299,5.8,21,8,4.0,0,1,32,215
+C1880,Business,Intermediate,999,4.6,17,14,5.0,0,1,10,276
+C1881,Data Science,Intermediate,299,9.5,57,9,4.4,30,1,4,127
+C1882,Language Learning,Beginner,1499,10.3,45,10,4.2,0,0,41,87
+C1883,Web Development,Beginner,499,8.6,38,13,4.8,40,1,10,510
+C1884,Design,Beginner,999,14.1,58,9,4.1,50,1,6,79
+C1885,Programming,Intermediate,2999,16.8,86,17,4.7,30,1,35,129
+C1886,Web Development,Advanced,299,8.1,38,4,3.5,20,1,25,68
+C1887,Exam Preparation,Beginner,799,4.0,22,14,4.0,30,1,7,65
+C1888,Business,Intermediate,999,10.8,52,20,4.7,30,1,40,160
+C1889,Web Development,Intermediate,799,15.6,55,18,5.0,50,1,12,298
+C1890,Language Learning,Intermediate,299,8.1,38,1,3.9,50,1,32,93
+C1891,Exam Preparation,Intermediate,0,12.0,44,3,3.8,10,1,31,204
+C1892,Data Science,Intermediate,799,5.6,31,13,4.5,20,0,39,292
+C1893,Business,Intermediate,999,10.7,40,19,4.0,40,1,35,81
+C1894,Web Development,Advanced,999,12.1,49,17,4.1,0,0,34,59
+C1895,Business,Beginner,299,10.8,50,19,4.6,20,0,3,225
+C1896,Data Science,Advanced,799,21.3,85,3,4.0,30,0,45,55
+C1897,Data Science,Beginner,499,17.6,85,11,3.4,30,1,6,58
+C1898,Language Learning,Advanced,499,13.0,60,15,3.7,10,0,12,17
+C1899,Language Learning,Beginner,1499,14.9,88,13,4.3,0,0,21,89
+C1900,Exam Preparation,Beginner,499,10.6,39,16,3.4,0,0,14,110
+C1901,Language Learning,Beginner,799,9.2,45,5,4.1,20,1,28,74
+C1902,Design,Beginner,2999,7.7,41,10,3.6,40,1,3,39
+C1903,Exam Preparation,Beginner,799,5.5,21,9,5.0,40,1,22,419
+C1904,Exam Preparation,Beginner,999,17.9,91,19,5.0,10,1,17,199
+C1905,Web Development,Intermediate,0,21.7,123,5,3.8,0,0,31,115
+C1906,Web Development,Beginner,299,9.6,53,7,4.4,30,1,25,210
+C1907,Data Science,Intermediate,299,9.7,57,1,3.8,30,0,36,94
+C1908,Business,Advanced,1499,12.3,65,4,4.1,20,1,8,49
+C1909,Data Science,Intermediate,1999,8.8,39,20,5.0,10,1,45,531
+C1910,Data Science,Beginner,299,5.9,34,17,4.0,0,1,19,116
+C1911,Business,Beginner,299,5.1,21,6,4.1,30,0,17,94
+C1912,Web Development,Advanced,499,21.3,106,15,3.8,20,0,26,49
+C1913,Data Science,Beginner,999,4.2,23,12,4.8,10,1,8,170
+C1914,Exam Preparation,Beginner,999,11.0,62,19,3.0,40,1,39,59
+C1915,Exam Preparation,Advanced,999,4.5,26,7,4.1,30,1,13,66
+C1916,Programming,Advanced,1999,9.0,33,20,4.2,50,1,44,64
+C1917,Programming,Beginner,499,8.0,43,8,4.0,20,1,7,143
+C1918,Data Science,Intermediate,999,4.8,19,15,4.6,20,0,41,140
+C1919,Exam Preparation,Intermediate,799,12.5,68,8,4.8,50,1,19,293
+C1920,Exam Preparation,Intermediate,499,5.7,30,14,3.6,50,0,29,121
+C1921,Programming,Beginner,1999,4.5,18,7,5.0,50,1,42,487
+C1922,Exam Preparation,Beginner,0,13.1,73,17,3.6,40,1,7,173
+C1923,Programming,Intermediate,1499,8.1,38,13,4.8,20,1,17,202
+C1924,Web Development,Beginner,1499,6.6,32,6,4.3,0,1,45,142
+C1925,Language Learning,Intermediate,2999,13.5,80,20,4.0,10,0,7,28
+C1926,Programming,Beginner,799,5.5,28,15,4.1,50,1,5,188
+C1927,Programming,Advanced,499,4.0,20,9,4.2,10,1,25,121
+C1928,Web Development,Intermediate,1499,16.3,58,3,4.3,30,1,2,97
+C1929,Business,Intermediate,1499,19.9,80,20,3.8,50,1,47,48
+C1930,Language Learning,Intermediate,799,8.9,32,16,4.1,50,1,43,83
+C1931,Language Learning,Beginner,1499,2.2,10,14,3.9,50,0,9,68
+C1932,Programming,Intermediate,499,8.9,39,17,3.7,20,1,9,128
+C1933,Programming,Beginner,999,13.9,67,13,3.9,20,1,37,163
+C1934,Exam Preparation,Advanced,1999,15.5,81,5,3.7,50,0,25,68
+C1935,Data Science,Intermediate,499,5.8,23,5,4.1,0,1,39,177
+C1936,Exam Preparation,Advanced,799,8.2,41,2,4.4,0,1,46,98
+C1937,Design,Advanced,2999,10.6,61,2,4.3,50,0,19,27
+C1938,Programming,Advanced,1499,13.5,53,15,5.0,30,0,12,314
+C1939,Exam Preparation,Beginner,1999,12.8,66,18,3.3,20,1,30,66
+C1940,Programming,Advanced,499,11.9,43,4,4.5,0,1,30,339
+C1941,Web Development,Intermediate,3999,15.5,75,12,4.3,20,0,21,100
+C1942,Business,Beginner,299,9.2,49,3,4.6,50,0,15,124
+C1943,Web Development,Intermediate,799,18.0,65,9,4.6,20,0,13,105
+C1944,Design,Beginner,799,7.3,32,16,4.2,10,0,25,42
+C1945,Business,Beginner,1499,12.9,73,17,4.3,20,1,21,190
+C1946,Language Learning,Beginner,1999,7.8,32,19,3.9,40,0,22,80
+C1947,Language Learning,Beginner,1499,9.0,48,7,4.5,40,0,5,94
+C1948,Web Development,Intermediate,999,9.6,48,19,3.4,10,0,42,37
+C1949,Programming,Advanced,799,7.6,30,16,4.6,20,1,34,199
+C1950,Design,Intermediate,799,15.8,85,7,4.2,0,1,44,101
+C1951,Language Learning,Intermediate,799,8.0,39,7,4.0,20,1,39,100
+C1952,Data Science,Beginner,0,9.4,36,3,4.1,0,1,30,412
+C1953,Web Development,Intermediate,799,12.2,72,19,4.2,20,1,15,199
+C1954,Web Development,Beginner,1999,25.7,122,5,4.8,20,1,31,192
+C1955,Programming,Intermediate,999,12.4,66,6,5.0,10,1,27,577
+C1956,Design,Beginner,1499,9.8,40,9,4.8,0,1,44,218
+C1957,Data Science,Intermediate,799,3.7,14,3,4.0,0,0,11,49
+C1958,Exam Preparation,Intermediate,799,8.9,48,17,4.5,0,1,2,225
+C1959,Exam Preparation,Intermediate,0,7.0,36,14,4.6,30,1,6,537
+C1960,Exam Preparation,Advanced,499,8.2,34,4,3.8,0,1,9,58
+C1961,Web Development,Beginner,799,7.7,41,4,3.7,0,0,32,93
+C1962,Data Science,Advanced,499,12.2,58,1,4.2,50,1,7,177
+C1963,Design,Intermediate,0,8.8,38,19,4.6,0,1,7,159
+C1964,Exam Preparation,Intermediate,999,6.2,34,9,3.5,40,0,19,79
+C1965,Web Development,Intermediate,799,14.1,71,14,3.9,20,0,37,89
+C1966,Exam Preparation,Advanced,799,5.3,25,3,4.5,30,0,20,151
+C1967,Programming,Advanced,499,9.6,52,5,4.3,20,1,13,127
+C1968,Exam Preparation,Beginner,799,8.9,43,11,4.9,0,1,14,201
+C1969,Programming,Intermediate,799,11.1,65,5,3.6,40,1,39,81
+C1970,Programming,Intermediate,799,15.6,87,13,5.0,40,1,21,647
+C1971,Business,Intermediate,999,27.5,121,19,3.6,10,1,18,42
+C1972,Programming,Advanced,0,9.8,46,7,3.3,30,1,37,77
+C1973,Programming,Beginner,1999,6.9,41,13,4.2,20,0,18,91
+C1974,Programming,Intermediate,0,6.6,38,19,3.7,40,0,17,221
+C1975,Web Development,Beginner,799,6.6,26,18,4.2,40,1,36,420
+C1976,Exam Preparation,Beginner,299,10.9,46,1,4.2,0,0,16,69
+C1977,Programming,Advanced,799,3.4,15,3,4.2,40,0,24,262
+C1978,Business,Beginner,499,5.1,29,20,3.9,50,1,32,146
+C1979,Exam Preparation,Beginner,1999,10.9,63,19,4.4,30,1,10,177
+C1980,Programming,Beginner,799,14.4,79,7,4.1,0,0,7,99
+C1981,Programming,Intermediate,999,14.5,61,11,4.7,40,1,40,322
+C1982,Exam Preparation,Intermediate,499,10.0,57,12,4.2,20,1,14,151
+C1983,Exam Preparation,Advanced,0,13.6,49,14,3.8,10,1,16,89
+C1984,Business,Beginner,799,15.7,72,16,3.5,40,1,28,60
+C1985,Exam Preparation,Intermediate,799,7.9,35,8,4.2,20,0,5,130
+C1986,Programming,Intermediate,799,15.0,73,18,3.7,40,0,3,42
+C1987,Web Development,Intermediate,2999,4.4,22,2,3.6,30,0,20,34
+C1988,Design,Beginner,999,5.1,21,1,4.5,0,1,46,117
+C1989,Data Science,Beginner,3999,8.1,32,20,3.5,50,1,27,43
+C1990,Design,Intermediate,499,4.1,23,4,4.9,20,1,28,441
+C1991,Web Development,Intermediate,1499,12.3,45,20,4.3,20,1,29,116
+C1992,Design,Intermediate,799,7.4,35,6,4.2,10,0,41,55
+C1993,Web Development,Intermediate,999,8.9,35,8,3.8,0,0,40,69
+C1994,Web Development,Intermediate,3999,9.1,39,1,4.6,30,0,2,37
+C1995,Data Science,Intermediate,999,8.0,34,19,4.2,10,1,26,169
+C1996,Data Science,Beginner,1999,6.6,35,8,3.9,50,1,26,131
+C1997,Design,Intermediate,1499,12.0,56,4,4.3,50,1,11,94
+C1998,Programming,Advanced,299,7.3,31,10,3.5,30,0,46,57
+C1999,Programming,Beginner,999,9.0,50,4,3.5,0,1,13,53
+C2000,Programming,Intermediate,799,11.2,42,16,3.7,30,0,40,128
+C2001,Programming,Beginner,2999,15.6,84,2,4.4,0,1,5,59
+C2002,Exam Preparation,Intermediate,1499,15.1,62,10,4.2,40,0,29,94
+C2003,Web Development,Beginner,299,7.6,44,8,4.7,20,1,35,664
+C2004,Language Learning,Intermediate,299,6.4,22,1,3.8,50,0,24,57
+C2005,Programming,Beginner,0,17.1,84,2,4.5,10,0,5,514
+C2006,Business,Intermediate,799,7.3,37,11,4.2,0,1,6,122
+C2007,Web Development,Advanced,0,11.8,58,8,3.8,50,1,29,240
+C2008,Web Development,Beginner,1499,4.0,22,3,4.4,20,1,41,210
+C2009,Exam Preparation,Advanced,799,3.3,12,3,4.2,40,0,29,80
+C2010,Language Learning,Advanced,1999,9.8,44,17,4.0,40,1,5,33
+C2011,Exam Preparation,Advanced,499,8.5,48,15,4.3,20,0,37,106
+C2012,Programming,Beginner,799,13.2,76,13,4.2,20,1,22,108
+C2013,Data Science,Intermediate,299,6.6,31,17,4.2,20,1,4,195
+C2014,Business,Beginner,1999,10.8,53,2,4.1,40,1,18,95
+C2015,Data Science,Beginner,299,12.9,70,14,3.7,50,0,10,150
+C2016,Design,Advanced,299,6.8,37,16,4.3,10,1,47,98
+C2017,Business,Intermediate,299,8.1,46,5,3.9,30,0,43,105
+C2018,Business,Intermediate,1499,5.5,31,11,3.8,0,1,5,22
+C2019,Exam Preparation,Beginner,299,13.4,61,16,4.1,20,1,27,143
+C2020,Design,Intermediate,999,12.1,62,13,4.6,40,1,1,51
+C2021,Programming,Intermediate,1499,12.5,59,5,4.3,40,1,22,160
+C2022,Programming,Intermediate,1499,8.5,32,14,4.0,10,0,8,54
+C2023,Business,Advanced,299,12.0,67,16,4.0,10,0,36,56
+C2024,Web Development,Beginner,0,2.5,13,1,4.5,0,1,4,370
+C2025,Data Science,Beginner,799,8.8,32,12,3.2,0,1,43,59
+C2026,Web Development,Intermediate,299,18.4,96,11,4.6,10,1,11,135
+C2027,Design,Advanced,999,9.4,40,8,3.4,40,1,13,62
+C2028,Exam Preparation,Beginner,499,14.7,54,1,3.6,10,1,42,92
+C2029,Business,Beginner,799,8.5,43,2,4.0,10,1,43,71
+C2030,Web Development,Beginner,299,16.6,88,16,5.0,30,1,5,344
+C2031,Data Science,Advanced,999,6.4,31,17,5.0,0,0,6,152
+C2032,Business,Beginner,299,11.4,40,9,4.6,0,0,41,224
+C2033,Data Science,Intermediate,999,7.0,35,19,4.4,50,1,46,391
+C2034,Business,Advanced,0,10.6,37,19,3.4,0,0,23,68
+C2035,Design,Beginner,3999,7.3,42,14,4.3,10,0,8,49
+C2036,Programming,Intermediate,999,9.4,39,12,4.0,20,0,8,77
+C2037,Programming,Intermediate,299,7.8,44,20,3.9,0,1,13,159
+C2038,Data Science,Intermediate,0,12.6,44,13,4.3,0,1,33,620
+C2039,Exam Preparation,Beginner,499,11.6,43,19,4.0,0,1,5,195
+C2040,Business,Beginner,299,6.9,32,20,4.6,10,0,31,408
+C2041,Programming,Beginner,299,6.8,37,4,3.4,40,1,38,94
+C2042,Exam Preparation,Intermediate,1999,6.2,36,14,4.3,10,1,7,72
+C2043,Web Development,Intermediate,999,5.6,27,15,3.9,10,1,47,43
+C2044,Web Development,Beginner,299,13.0,57,17,4.1,10,1,47,221
+C2045,Language Learning,Beginner,799,6.0,22,7,4.4,50,1,14,195
+C2046,Programming,Advanced,499,11.0,55,18,3.7,0,1,6,87
+C2047,Data Science,Beginner,3999,7.5,33,10,4.3,40,1,16,90
+C2048,Business,Beginner,0,14.5,84,8,4.2,10,0,13,393
+C2049,Programming,Intermediate,1499,20.5,96,4,4.0,50,1,14,86
+C2050,Design,Beginner,1499,2.2,12,7,4.0,10,1,44,53
+C2051,Data Science,Beginner,0,6.4,36,20,4.2,0,1,8,312
+C2052,Programming,Intermediate,299,7.4,28,15,3.9,20,1,15,92
+C2053,Data Science,Beginner,499,8.6,40,15,4.3,0,0,38,290
+C2054,Web Development,Intermediate,1999,8.4,48,18,4.1,30,1,3,84
+C2055,Programming,Intermediate,799,5.0,23,6,4.0,30,0,3,98
+C2056,Programming,Intermediate,999,20.7,102,14,5.0,30,0,15,257
+C2057,Exam Preparation,Beginner,1499,8.5,48,8,4.4,0,1,46,147
+C2058,Data Science,Advanced,1499,11.6,47,17,4.1,30,1,40,48
+C2059,Web Development,Beginner,799,11.8,68,9,4.3,10,1,44,252
+C2060,Programming,Intermediate,799,4.5,20,18,3.8,50,0,41,118
+C2061,Data Science,Beginner,1499,8.0,40,15,4.1,30,0,6,71
+C2062,Data Science,Intermediate,499,13.0,56,16,4.1,20,1,19,168
+C2063,Business,Beginner,1999,17.1,82,19,3.7,40,1,25,66
+C2064,Data Science,Beginner,0,8.1,29,16,4.4,20,1,8,829
+C2065,Exam Preparation,Intermediate,299,4.9,18,7,4.0,20,1,47,88
+C2066,Language Learning,Beginner,1499,7.1,32,11,4.1,0,1,29,84
+C2067,Programming,Beginner,499,7.9,34,10,4.0,30,1,41,138
+C2068,Programming,Intermediate,299,7.8,39,2,5.0,10,1,13,308
+C2069,Programming,Advanced,299,6.2,22,12,4.0,0,1,34,127
+C2070,Business,Beginner,799,4.7,18,9,3.3,40,1,5,36
+C2071,Programming,Advanced,1999,5.5,22,8,3.5,0,1,2,20
+C2072,Exam Preparation,Intermediate,0,7.2,33,3,4.6,30,1,31,477
+C2073,Design,Advanced,0,12.9,53,11,4.9,0,1,4,206
+C2074,Exam Preparation,Intermediate,799,15.2,58,12,3.9,10,1,13,116
+C2075,Business,Intermediate,2999,9.9,49,3,4.8,40,1,38,115
+C2076,Language Learning,Intermediate,499,5.6,30,13,4.6,0,1,24,157
+C2077,Programming,Intermediate,2999,7.4,39,4,4.2,30,1,18,86
+C2078,Web Development,Advanced,1999,3.4,14,3,4.1,20,0,14,43
+C2079,Data Science,Beginner,499,17.3,98,9,4.3,40,0,32,289
+C2080,Language Learning,Beginner,1499,6.8,34,8,4.6,0,1,45,139
+C2081,Business,Beginner,999,11.2,56,19,4.4,30,1,35,246
+C2082,Exam Preparation,Advanced,799,14.7,59,2,3.9,20,1,17,53
+C2083,Programming,Beginner,799,19.5,80,7,4.2,10,0,20,107
+C2084,Language Learning,Intermediate,1499,13.6,64,15,5.0,10,1,5,82
+C2085,Web Development,Advanced,1499,7.8,32,5,4.4,10,1,7,38
+C2086,Web Development,Advanced,1499,11.8,62,20,4.6,20,0,13,207
+C2087,Language Learning,Beginner,3999,19.2,82,15,4.5,0,0,19,14
+C2088,Web Development,Intermediate,799,6.8,26,19,4.4,10,1,47,314
+C2089,Web Development,Advanced,1499,4.6,18,19,4.3,30,0,41,70
+C2090,Business,Beginner,1999,6.2,24,3,4.7,20,1,6,162
+C2091,Programming,Intermediate,299,11.5,53,10,4.6,0,1,16,135
+C2092,Data Science,Beginner,0,7.8,27,15,4.4,10,1,3,370
+C2093,Programming,Intermediate,799,9.0,44,1,3.9,10,0,3,110
+C2094,Programming,Intermediate,1999,12.4,53,10,4.4,30,1,18,190
+C2095,Exam Preparation,Beginner,499,6.1,30,14,4.2,40,1,46,190
+C2096,Business,Beginner,999,8.8,51,16,4.1,20,1,9,52
+C2097,Data Science,Beginner,0,7.3,41,9,5.0,30,1,32,660
+C2098,Web Development,Beginner,499,18.8,93,18,3.6,0,1,19,170
+C2099,Web Development,Intermediate,999,13.4,61,14,4.7,50,1,26,280
+C2100,Business,Beginner,299,7.9,41,1,3.9,10,1,41,109
+C2101,Language Learning,Beginner,1999,7.7,45,6,4.3,10,1,39,85
+C2102,Language Learning,Intermediate,299,19.8,94,19,5.0,0,0,39,158
+C2103,Web Development,Intermediate,1999,19.0,71,1,3.8,0,0,20,43
+C2104,Data Science,Intermediate,299,11.5,62,3,3.9,30,1,3,85
+C2105,Web Development,Advanced,3999,9.2,32,7,4.2,0,0,47,23
+C2106,Business,Beginner,999,5.1,28,20,3.9,0,1,47,79
+C2107,Web Development,Advanced,0,6.2,23,15,4.6,0,1,41,213
+C2108,Business,Beginner,0,4.9,18,3,4.0,50,1,23,183
+C2109,Business,Intermediate,0,15.0,82,8,4.5,30,0,14,305
+C2110,Data Science,Advanced,999,5.1,27,19,3.7,50,1,9,68
+C2111,Data Science,Advanced,1499,7.6,37,5,3.4,40,0,18,32
+C2112,Web Development,Intermediate,799,3.7,21,12,4.1,40,1,16,172
+C2113,Programming,Intermediate,799,4.4,25,10,3.5,20,1,13,59
+C2114,Programming,Beginner,999,12.6,59,16,4.9,0,1,45,468
+C2115,Design,Intermediate,799,10.7,64,16,3.6,10,1,31,49
+C2116,Web Development,Intermediate,999,9.3,41,17,3.8,0,1,11,106
+C2117,Data Science,Advanced,799,7.7,30,3,4.4,30,0,31,134
+C2118,Business,Intermediate,1499,4.1,23,10,4.0,0,0,34,43
+C2119,Design,Beginner,3999,7.2,33,14,3.6,0,1,25,9
+C2120,Data Science,Intermediate,499,8.6,49,9,5.0,30,1,45,686
+C2121,Exam Preparation,Beginner,0,12.2,45,14,3.8,0,0,46,179
+C2122,Language Learning,Beginner,299,14.6,55,13,4.2,0,0,21,127
+C2123,Business,Beginner,799,12.8,46,8,4.2,0,0,23,270
+C2124,Design,Intermediate,499,10.6,53,3,4.6,30,1,11,186
+C2125,Programming,Beginner,2999,9.3,52,20,4.5,0,0,37,185
+C2126,Language Learning,Beginner,999,10.2,46,17,3.9,0,1,44,70
+C2127,Web Development,Beginner,799,7.0,26,18,4.1,0,0,31,222
+C2128,Language Learning,Advanced,1499,9.6,43,6,4.1,30,1,10,39
+C2129,Business,Intermediate,499,8.5,37,7,4.6,0,0,25,185
+C2130,Programming,Beginner,1499,23.5,120,7,3.7,0,1,38,151
+C2131,Programming,Beginner,0,10.3,53,1,5.0,40,0,2,544
+C2132,Design,Intermediate,999,3.3,12,4,3.9,40,1,28,67
+C2133,Business,Beginner,2999,7.5,34,7,4.2,0,1,31,36
+C2134,Programming,Intermediate,1499,8.1,41,20,3.7,0,0,26,92
+C2135,Design,Beginner,1999,13.6,56,5,3.7,0,1,31,33
+C2136,Exam Preparation,Advanced,799,10.9,49,11,3.9,30,0,43,98
+C2137,Web Development,Beginner,1499,10.6,53,11,3.8,0,1,6,37
+C2138,Web Development,Intermediate,799,16.4,74,8,4.1,50,1,27,184
+C2139,Programming,Beginner,999,19.1,68,19,3.8,40,0,38,106
+C2140,Exam Preparation,Advanced,0,12.6,51,2,4.6,20,1,39,404
+C2141,Data Science,Advanced,299,7.8,42,18,3.9,0,0,22,91
+C2142,Exam Preparation,Intermediate,799,7.9,33,15,3.8,40,1,47,88
+C2143,Web Development,Intermediate,0,1.8,10,7,4.1,30,1,16,196
+C2144,Business,Beginner,1499,15.4,72,16,4.7,30,1,21,162
+C2145,Data Science,Intermediate,1999,7.9,37,9,4.3,0,0,39,117
+C2146,Programming,Intermediate,2999,9.0,49,20,4.2,30,1,21,69
+C2147,Exam Preparation,Beginner,299,7.4,33,1,3.6,40,0,17,70
+C2148,Web Development,Intermediate,2999,5.5,23,1,3.7,50,1,27,60
+C2149,Business,Intermediate,0,22.7,85,11,3.7,20,0,30,197
+C2150,Language Learning,Intermediate,799,9.0,47,19,4.8,20,0,46,184
+C2151,Language Learning,Intermediate,1999,17.5,82,2,4.5,10,0,30,57
+C2152,Exam Preparation,Intermediate,0,7.9,44,16,3.9,30,1,9,195
+C2153,Programming,Intermediate,0,6.8,32,19,4.0,50,0,3,93
+C2154,Business,Beginner,0,12.1,55,10,3.9,20,1,46,154
+C2155,Exam Preparation,Beginner,799,14.6,62,18,3.9,0,1,20,110
+C2156,Web Development,Beginner,1499,15.0,60,16,4.5,0,0,10,105
+C2157,Programming,Intermediate,299,8.5,47,5,4.1,20,0,11,70
+C2158,Exam Preparation,Beginner,299,12.7,47,18,5.0,40,0,5,510
+C2159,Web Development,Beginner,999,7.2,41,14,4.8,0,0,10,245
+C2160,Business,Beginner,499,9.6,34,1,4.8,10,1,37,300
+C2161,Language Learning,Beginner,1499,8.1,39,12,4.6,50,1,31,146
+C2162,Business,Intermediate,2999,7.6,28,14,4.1,20,0,29,44
+C2163,Web Development,Beginner,1499,9.8,53,17,4.5,0,0,1,141
+C2164,Web Development,Beginner,1999,5.5,22,16,4.1,10,1,32,98
+C2165,Web Development,Intermediate,799,14.0,69,10,5.0,10,0,46,379
+C2166,Programming,Beginner,1999,7.6,44,6,4.4,0,1,44,107
+C2167,Exam Preparation,Beginner,299,13.7,70,4,4.4,30,1,19,248
+C2168,Exam Preparation,Beginner,0,6.0,24,2,4.3,20,0,29,475
+C2169,Data Science,Intermediate,999,7.6,42,13,5.0,20,1,15,515
+C2170,Data Science,Beginner,0,5.4,25,20,3.6,20,1,42,397
+C2171,Exam Preparation,Intermediate,1999,5.4,19,2,5.0,0,1,44,182
+C2172,Programming,Advanced,999,6.4,30,15,4.2,0,1,11,87
+C2173,Business,Intermediate,2999,6.0,33,12,3.6,0,1,23,18
+C2174,Web Development,Beginner,499,5.5,25,4,3.9,0,1,12,58
+C2175,Design,Intermediate,799,9.3,50,5,3.5,30,1,29,30
+C2176,Programming,Intermediate,1499,12.0,63,6,4.5,0,1,14,133
+C2177,Design,Beginner,499,12.3,57,14,3.8,30,1,33,103
+C2178,Web Development,Intermediate,799,4.0,17,6,4.3,0,1,47,240
+C2179,Business,Beginner,999,8.1,43,17,4.8,0,1,41,418
+C2180,Programming,Beginner,3999,7.7,34,8,3.9,0,1,9,20
+C2181,Web Development,Beginner,1499,16.5,65,3,4.1,20,0,7,105
+C2182,Business,Beginner,299,8.3,36,2,3.7,20,0,39,68
+C2183,Data Science,Beginner,799,8.9,51,9,4.1,40,0,4,156
+C2184,Programming,Intermediate,999,4.6,19,9,5.0,0,0,19,355
+C2185,Programming,Advanced,299,6.3,26,15,4.6,20,1,47,368
+C2186,Data Science,Beginner,799,4.5,17,10,4.1,30,0,22,131
+C2187,Programming,Intermediate,499,9.6,35,4,4.0,10,1,1,139
+C2188,Language Learning,Intermediate,299,16.8,100,5,4.2,0,1,46,55
+C2189,Web Development,Beginner,799,6.4,31,12,4.3,0,0,34,276
+C2190,Exam Preparation,Beginner,299,8.3,44,7,4.1,0,0,16,135
+C2191,Language Learning,Beginner,999,6.0,33,14,4.5,40,1,29,177
+C2192,Programming,Beginner,299,6.9,30,19,3.8,10,1,29,90
+C2193,Business,Beginner,1499,9.7,53,8,3.8,20,1,26,64
+C2194,Exam Preparation,Beginner,299,20.4,120,12,4.4,30,0,46,361
+C2195,Business,Intermediate,1999,16.4,88,17,3.7,10,0,37,32
+C2196,Web Development,Beginner,0,18.6,98,5,4.6,20,0,13,523
+C2197,Web Development,Beginner,799,13.8,63,11,4.2,0,0,47,167
+C2198,Programming,Beginner,499,8.2,46,7,3.4,20,1,46,143
+C2199,Business,Intermediate,499,7.7,29,13,4.3,0,0,3,91
+C2200,Language Learning,Beginner,799,6.4,34,15,3.5,0,0,14,28
+C2201,Language Learning,Intermediate,1999,2.7,12,3,4.6,0,1,29,72
+C2202,Programming,Beginner,2999,8.2,40,4,4.1,30,1,42,168
+C2203,Design,Beginner,499,16.9,97,1,5.0,30,1,34,379
+C2204,Data Science,Advanced,299,16.8,84,1,4.7,30,1,27,213
+C2205,Language Learning,Beginner,1499,24.0,86,2,3.8,0,1,15,81
+C2206,Programming,Beginner,999,10.0,53,15,3.3,50,0,5,88
+C2207,Language Learning,Beginner,299,5.1,30,19,3.9,0,0,42,126
+C2208,Exam Preparation,Advanced,1499,11.7,60,9,3.7,40,1,26,60
+C2209,Programming,Intermediate,799,20.5,116,18,5.0,30,1,22,566
+C2210,Programming,Intermediate,999,17.9,100,15,4.2,20,1,47,222
+C2211,Exam Preparation,Advanced,499,7.3,41,17,4.7,10,0,8,62
+C2212,Programming,Beginner,799,5.3,23,15,4.1,30,1,12,194
+C2213,Business,Advanced,299,5.2,24,4,4.2,30,0,41,73
+C2214,Language Learning,Beginner,1499,6.6,37,11,4.2,0,1,14,58
+C2215,Business,Intermediate,299,7.0,40,11,4.7,30,1,45,231
+C2216,Web Development,Beginner,1499,8.0,31,13,4.4,0,0,41,86
+C2217,Web Development,Beginner,1499,12.4,49,16,3.8,20,0,5,36
+C2218,Programming,Advanced,1499,7.8,34,3,5.0,20,1,22,317
+C2219,Language Learning,Beginner,0,9.4,51,14,4.1,40,1,36,290
+C2220,Data Science,Advanced,499,4.3,24,17,4.0,20,0,24,41
+C2221,Programming,Beginner,799,6.4,32,3,3.0,0,1,11,32
+C2222,Data Science,Intermediate,999,6.3,24,9,4.5,20,0,3,170
+C2223,Language Learning,Advanced,2999,4.0,17,18,4.3,0,1,1,16
+C2224,Programming,Beginner,499,7.7,43,1,4.3,20,0,9,249
+C2225,Exam Preparation,Advanced,1999,4.4,19,4,4.1,20,1,13,61
+C2226,Design,Intermediate,299,7.5,28,17,4.0,30,0,15,50
+C2227,Exam Preparation,Intermediate,499,9.7,41,4,4.1,0,1,41,125
+C2228,Language Learning,Beginner,0,17.0,94,15,4.5,0,0,24,275
+C2229,Exam Preparation,Intermediate,1499,6.1,29,19,4.5,20,1,7,76
+C2230,Language Learning,Intermediate,299,9.6,38,10,4.1,0,1,4,44
+C2231,Programming,Intermediate,499,6.8,29,10,4.7,0,0,7,153
+C2232,Exam Preparation,Beginner,1499,4.3,25,9,4.2,10,0,15,71
+C2233,Business,Beginner,799,17.1,78,8,4.0,20,1,35,125
+C2234,Business,Advanced,0,9.9,46,8,4.3,0,1,3,191
+C2235,Exam Preparation,Beginner,0,11.4,44,12,3.6,20,1,20,234
+C2236,Language Learning,Intermediate,799,18.4,78,18,4.4,40,1,22,175
+C2237,Design,Advanced,499,7.5,42,20,3.6,20,1,7,32
+C2238,Web Development,Beginner,299,5.0,27,18,3.8,0,1,3,131
+C2239,Web Development,Beginner,999,6.1,28,3,3.3,0,1,11,42
+C2240,Web Development,Intermediate,499,4.8,28,7,4.2,0,0,8,85
+C2241,Web Development,Beginner,999,14.9,66,16,5.0,20,0,38,805
+C2242,Web Development,Intermediate,499,20.9,118,11,4.2,30,0,44,64
+C2243,Programming,Intermediate,299,9.7,35,7,4.5,0,1,30,147
+C2244,Programming,Intermediate,299,12.5,55,7,5.0,0,0,36,497
+C2245,Exam Preparation,Beginner,499,14.0,79,3,4.4,10,1,36,211
+C2246,Web Development,Intermediate,0,19.0,109,7,3.9,10,0,42,113
+C2247,Language Learning,Intermediate,499,20.5,111,9,4.0,50,1,5,43
+C2248,Business,Beginner,1999,3.6,19,9,4.3,0,0,47,51
+C2249,Programming,Intermediate,1999,6.9,38,11,4.0,0,1,22,101
+C2250,Programming,Advanced,499,9.2,48,6,4.0,10,0,26,138
+C2251,Data Science,Intermediate,999,6.5,27,5,4.7,0,0,38,353
+C2252,Language Learning,Intermediate,999,8.0,37,18,4.7,0,0,24,79
+C2253,Data Science,Beginner,1499,11.1,57,9,3.5,10,1,13,38
+C2254,Web Development,Beginner,499,3.0,15,6,3.9,10,1,1,54
+C2255,Language Learning,Beginner,499,10.9,62,13,4.0,0,0,8,115
+C2256,Language Learning,Beginner,499,13.8,65,11,4.5,20,1,4,161
+C2257,Data Science,Advanced,0,9.3,37,12,4.8,20,1,18,465
+C2258,Programming,Beginner,499,2.8,11,5,5.0,0,1,37,535
+C2259,Programming,Intermediate,1999,7.7,43,15,4.0,40,1,16,99
+C2260,Programming,Beginner,2999,10.6,37,4,4.1,0,0,29,38
+C2261,Programming,Beginner,299,14.3,81,17,4.5,50,1,9,390
+C2262,Business,Beginner,799,13.3,48,9,3.9,50,1,28,114
+C2263,Language Learning,Beginner,499,8.7,39,9,4.2,10,1,45,88
+C2264,Business,Intermediate,799,6.7,37,8,4.1,0,0,15,84
+C2265,Business,Advanced,799,8.9,40,9,3.1,40,1,23,22
+C2266,Data Science,Advanced,0,3.8,21,14,4.3,10,0,46,255
+C2267,Exam Preparation,Beginner,1999,7.0,26,10,4.2,0,1,29,92
+C2268,Business,Intermediate,3999,15.5,74,3,4.8,20,0,19,72
+C2269,Exam Preparation,Beginner,999,8.9,44,12,4.3,20,0,6,130
+C2270,Language Learning,Advanced,999,10.8,62,6,3.7,40,1,45,29
+C2271,Data Science,Intermediate,799,4.7,18,3,4.1,30,1,29,155
+C2272,Programming,Beginner,499,14.2,62,17,3.3,40,0,3,71
+C2273,Data Science,Beginner,299,8.5,44,7,3.7,30,1,27,173
+C2274,Web Development,Beginner,999,10.6,63,12,4.5,20,1,46,389
+C2275,Language Learning,Beginner,0,11.7,66,4,4.1,20,1,44,182
+C2276,Web Development,Advanced,1499,14.0,79,7,4.7,50,1,10,177
+C2277,Exam Preparation,Intermediate,799,9.9,47,8,3.4,50,0,20,29
+C2278,Business,Advanced,799,8.6,42,3,4.1,40,0,47,61
+C2279,Programming,Beginner,499,5.1,29,20,4.0,30,1,37,198
+C2280,Data Science,Intermediate,2999,4.5,26,7,4.7,20,0,27,175
+C2281,Business,Beginner,299,9.8,54,12,4.6,0,1,15,226
+C2282,Design,Intermediate,299,10.6,59,12,4.5,40,1,36,236
+C2283,Web Development,Beginner,299,11.4,65,9,4.9,0,1,28,277
+C2284,Data Science,Beginner,999,6.1,23,12,4.1,0,0,25,123
+C2285,Design,Intermediate,3999,7.0,30,12,4.9,10,1,44,45
+C2286,Programming,Beginner,499,9.7,58,2,3.8,20,1,18,315
+C2287,Language Learning,Intermediate,1999,7.4,36,14,3.8,20,0,30,29
+C2288,Programming,Intermediate,499,24.9,98,3,4.6,0,0,3,142
+C2289,Programming,Beginner,999,6.9,33,9,3.6,0,0,34,85
+C2290,Web Development,Advanced,0,11.0,56,8,4.5,0,1,26,187
+C2291,Web Development,Intermediate,799,13.2,74,9,4.3,10,1,42,145
+C2292,Web Development,Intermediate,999,13.5,75,2,4.7,0,1,16,218
+C2293,Web Development,Intermediate,799,7.4,27,15,4.2,30,0,44,152
+C2294,Language Learning,Intermediate,499,11.7,54,9,4.3,0,1,28,54
+C2295,Web Development,Intermediate,1499,11.0,39,2,4.5,10,0,10,83
+C2296,Web Development,Advanced,3999,11.9,68,1,4.0,10,0,8,20
+C2297,Web Development,Intermediate,799,9.6,38,11,3.9,20,0,10,96
+C2298,Programming,Beginner,999,13.2,67,14,4.5,40,1,15,446
+C2299,Business,Beginner,1499,10.2,50,11,4.2,0,1,26,74
+C2300,Data Science,Intermediate,499,4.9,25,15,4.1,10,1,41,264
+C2301,Business,Beginner,1999,10.0,49,16,4.2,30,1,47,114
+C2302,Programming,Beginner,499,10.6,56,18,5.0,0,0,32,976
+C2303,Language Learning,Beginner,1499,12.8,65,20,4.1,40,1,24,116
+C2304,Web Development,Intermediate,299,9.8,37,18,4.0,50,0,29,75
+C2305,Exam Preparation,Beginner,499,19.2,85,16,3.5,20,1,16,111
+C2306,Web Development,Intermediate,799,8.7,42,9,4.2,50,1,12,121
+C2307,Programming,Intermediate,799,7.2,31,11,4.5,10,0,26,179
+C2308,Exam Preparation,Intermediate,1999,16.4,89,13,4.6,10,0,39,71
+C2309,Business,Beginner,3999,8.6,37,4,4.3,0,0,4,36
+C2310,Exam Preparation,Intermediate,299,9.4,52,14,4.7,0,0,6,162
+C2311,Web Development,Intermediate,499,10.6,41,12,4.6,0,1,9,367
+C2312,Business,Intermediate,499,10.2,55,11,4.8,20,0,10,153
+C2313,Exam Preparation,Intermediate,799,11.9,47,17,4.7,20,1,7,153
+C2314,Business,Beginner,799,12.4,60,14,5.0,0,1,7,428
+C2315,Data Science,Advanced,1999,6.9,30,19,4.2,20,1,2,56
+C2316,Design,Beginner,1499,5.3,27,20,3.7,0,1,17,48
+C2317,Design,Intermediate,0,5.6,23,17,4.5,10,1,34,204
+C2318,Language Learning,Intermediate,799,15.6,86,6,4.6,0,0,8,75
+C2319,Web Development,Beginner,999,8.3,41,4,5.0,30,0,16,373
+C2320,Web Development,Intermediate,799,13.1,77,6,4.8,20,1,46,192
+C2321,Exam Preparation,Beginner,299,12.6,67,15,5.0,30,1,8,365
+C2322,Web Development,Intermediate,799,9.4,47,18,4.5,0,1,47,197
+C2323,Design,Intermediate,799,6.1,34,18,4.4,10,0,25,119
+C2324,Web Development,Beginner,299,12.7,51,14,3.6,50,1,35,234
+C2325,Data Science,Beginner,1499,9.2,47,14,4.4,0,1,16,150
+C2326,Design,Intermediate,499,5.2,23,20,4.0,10,1,16,67
+C2327,Programming,Beginner,999,7.4,40,14,4.3,0,0,19,449
+C2328,Programming,Advanced,799,4.3,15,3,4.3,0,0,7,61
+C2329,Business,Intermediate,1999,7.6,35,11,4.5,20,1,15,85
+C2330,Design,Intermediate,299,9.6,49,8,4.2,0,1,43,108
+C2331,Exam Preparation,Beginner,299,8.8,41,13,4.7,20,0,1,202
+C2332,Data Science,Intermediate,499,8.3,34,13,3.0,50,0,27,50
+C2333,Programming,Advanced,799,9.6,45,6,4.3,0,1,33,173
+C2334,Language Learning,Beginner,499,11.6,65,6,4.8,0,1,7,216
+C2335,Programming,Beginner,1499,13.6,55,2,5.0,40,1,6,470
+C2336,Programming,Beginner,499,14.4,64,6,4.6,20,1,26,538
+C2337,Data Science,Beginner,0,6.5,39,17,5.0,40,0,11,835
+C2338,Business,Intermediate,799,15.1,87,14,4.3,10,0,46,132
+C2339,Exam Preparation,Intermediate,1499,9.2,33,19,4.3,20,1,9,159
+C2340,Exam Preparation,Intermediate,1999,7.9,38,19,4.5,50,1,7,95
+C2341,Design,Beginner,1499,5.7,21,18,4.2,0,0,16,169
+C2342,Programming,Beginner,799,2.7,16,4,3.9,40,1,16,106
+C2343,Data Science,Beginner,1499,11.2,52,7,4.0,20,0,8,77
+C2344,Web Development,Advanced,999,11.0,50,2,3.7,40,0,32,35
+C2345,Programming,Intermediate,499,7.1,30,2,4.5,0,1,17,137
+C2346,Data Science,Beginner,799,7.2,35,5,4.3,10,0,25,258
+C2347,Data Science,Intermediate,1499,8.6,33,6,4.1,0,0,12,153
+C2348,Programming,Beginner,499,7.8,43,1,4.0,50,1,5,110
+C2349,Business,Beginner,999,6.4,30,17,4.5,0,1,3,143
+C2350,Design,Beginner,799,5.4,27,11,4.6,0,1,3,136
+C2351,Programming,Advanced,799,15.1,85,14,3.7,40,1,41,116
+C2352,Web Development,Intermediate,0,7.4,29,14,3.7,10,0,13,302
+C2353,Exam Preparation,Intermediate,999,11.0,43,20,4.7,20,1,15,397
+C2354,Design,Beginner,1999,11.9,54,3,3.6,0,0,28,28
+C2355,Exam Preparation,Beginner,299,11.2,61,7,4.5,20,0,5,223
+C2356,Web Development,Intermediate,499,12.2,44,7,5.0,0,1,29,513
+C2357,Exam Preparation,Beginner,0,11.2,61,12,5.0,20,0,25,833
+C2358,Data Science,Advanced,0,6.8,32,11,4.6,20,1,38,262
+C2359,Web Development,Intermediate,3999,8.0,39,16,4.6,10,1,6,38
+C2360,Programming,Beginner,799,15.0,74,12,5.0,0,1,1,509
+C2361,Web Development,Intermediate,499,7.3,27,5,3.2,0,0,37,69
+C2362,Web Development,Advanced,499,9.2,38,12,4.0,30,0,18,75
+C2363,Data Science,Intermediate,3999,11.6,63,20,4.6,0,1,3,52
+C2364,Design,Intermediate,499,17.4,79,12,4.1,0,1,27,152
+C2365,Data Science,Advanced,1499,14.4,71,12,4.8,10,1,22,93
+C2366,Data Science,Beginner,499,6.0,35,4,4.2,20,1,45,183
+C2367,Programming,Advanced,0,10.8,39,1,4.3,30,0,45,471
+C2368,Web Development,Beginner,999,10.3,48,5,4.1,10,0,26,146
+C2369,Data Science,Intermediate,0,8.1,36,1,4.0,40,1,8,130
+C2370,Web Development,Intermediate,999,9.4,35,10,4.0,30,1,36,131
+C2371,Data Science,Intermediate,499,6.8,40,18,4.4,40,0,10,255
+C2372,Exam Preparation,Intermediate,1499,8.6,51,9,3.9,30,1,40,35
+C2373,Language Learning,Intermediate,1499,7.4,32,13,4.7,0,1,29,126
+C2374,Web Development,Beginner,1499,9.7,57,18,4.5,50,1,17,227
+C2375,Business,Beginner,0,7.9,28,16,4.7,30,0,47,277
+C2376,Exam Preparation,Beginner,999,18.1,108,14,3.7,20,1,25,101
+C2377,Language Learning,Intermediate,3999,9.8,55,16,3.5,0,1,19,10
+C2378,Business,Beginner,499,9.0,36,6,4.2,0,1,9,115
+C2379,Exam Preparation,Beginner,499,8.4,42,9,5.0,20,0,31,366
+C2380,Language Learning,Advanced,1499,8.0,44,8,4.8,10,1,13,54
+C2381,Exam Preparation,Beginner,299,5.2,22,16,4.0,30,1,8,81
+C2382,Web Development,Beginner,999,13.1,57,9,4.4,10,1,6,128
+C2383,Programming,Beginner,1499,16.4,83,19,4.6,20,0,31,343
+C2384,Programming,Beginner,0,7.3,28,4,3.6,0,0,44,205
+C2385,Web Development,Intermediate,799,14.9,57,4,4.9,0,1,12,235
+C2386,Web Development,Beginner,999,24.8,102,15,4.2,0,0,11,74
+C2387,Web Development,Beginner,499,20.6,110,16,4.2,40,0,29,173
+C2388,Business,Advanced,1999,16.1,71,14,4.3,20,1,7,60
+C2389,Business,Intermediate,299,5.5,26,7,4.8,50,0,5,193
+C2390,Exam Preparation,Intermediate,499,5.5,22,1,3.9,30,1,30,86
+C2391,Programming,Advanced,1999,12.2,49,7,3.5,30,1,25,17
+C2392,Data Science,Advanced,299,9.3,48,10,4.4,20,1,2,96
+C2393,Exam Preparation,Beginner,1499,3.5,13,9,3.3,40,0,12,32
+C2394,Exam Preparation,Intermediate,0,7.7,40,19,4.1,50,1,10,169
+C2395,Language Learning,Intermediate,799,12.0,54,18,4.8,30,1,33,199
+C2396,Exam Preparation,Beginner,0,8.6,45,16,4.5,0,1,32,755
+C2397,Exam Preparation,Beginner,999,9.3,41,1,4.7,30,0,36,236
+C2398,Data Science,Beginner,1499,5.4,30,3,4.5,0,0,5,154
+C2399,Web Development,Intermediate,1999,7.6,28,9,5.0,0,1,40,119
+C2400,Data Science,Intermediate,3999,12.2,70,13,4.0,30,0,10,34
+C2401,Business,Intermediate,999,7.5,31,14,4.4,40,1,47,79
+C2402,Language Learning,Beginner,1499,15.5,56,6,4.1,0,0,41,53
+C2403,Data Science,Beginner,799,9.4,46,3,4.7,0,0,22,185
+C2404,Business,Intermediate,2999,11.2,45,7,4.2,40,1,37,111
+C2405,Data Science,Intermediate,999,12.1,56,16,5.0,0,1,32,459
+C2406,Programming,Advanced,1999,11.9,66,20,4.0,0,1,37,92
+C2407,Programming,Advanced,499,5.9,32,19,4.9,30,1,1,187
+C2408,Programming,Advanced,799,6.4,32,12,4.5,40,1,4,90
+C2409,Language Learning,Advanced,1499,3.5,21,2,4.2,20,1,43,31
+C2410,Web Development,Advanced,299,8.0,37,20,4.5,20,0,37,195
+C2411,Exam Preparation,Intermediate,299,6.2,22,4,4.4,10,0,29,311
+C2412,Design,Beginner,3999,7.4,41,6,4.4,0,0,15,29
+C2413,Programming,Beginner,799,8.4,34,20,4.2,30,1,20,212
+C2414,Programming,Beginner,299,10.0,39,11,3.9,40,0,19,150
+C2415,Exam Preparation,Beginner,499,8.7,32,4,4.1,10,1,21,155
+C2416,Data Science,Beginner,799,8.6,37,11,3.5,0,1,30,190
+C2417,Language Learning,Advanced,999,10.8,47,2,4.6,0,1,36,132
+C2418,Programming,Beginner,2999,9.1,39,7,3.7,0,1,19,43
+C2419,Design,Advanced,3999,13.5,67,20,4.2,0,1,40,20
+C2420,Exam Preparation,Intermediate,999,9.1,49,6,4.5,0,1,5,130
+C2421,Data Science,Intermediate,999,17.5,102,18,4.6,30,0,38,283
+C2422,Data Science,Intermediate,499,5.8,22,11,3.5,0,1,32,71
+C2423,Language Learning,Beginner,1999,8.0,31,14,4.2,30,0,24,59
+C2424,Data Science,Intermediate,299,6.9,34,15,4.5,20,1,18,381
+C2425,Web Development,Beginner,299,10.1,38,12,4.3,40,1,18,258
+C2426,Web Development,Advanced,3999,5.8,26,1,4.9,50,0,17,118
+C2427,Data Science,Beginner,1999,13.6,69,19,3.9,10,0,45,160
+C2428,Exam Preparation,Beginner,499,4.7,26,10,3.3,0,1,2,55
+C2429,Exam Preparation,Intermediate,999,6.3,25,14,4.6,30,1,30,252
+C2430,Web Development,Intermediate,799,4.8,25,12,4.0,0,0,47,302
+C2431,Exam Preparation,Intermediate,499,8.5,43,14,3.5,0,0,26,69
+C2432,Data Science,Intermediate,499,9.9,56,8,4.2,0,1,31,124
+C2433,Programming,Beginner,299,4.4,19,17,4.8,40,1,29,491
+C2434,Business,Intermediate,799,7.8,42,5,3.7,0,1,24,102
+C2435,Language Learning,Beginner,799,14.3,77,14,5.0,20,0,30,174
+C2436,Programming,Beginner,799,16.2,66,12,3.9,10,1,43,120
+C2437,Data Science,Beginner,299,12.7,64,11,4.3,30,1,34,451
+C2438,Web Development,Beginner,2999,2.9,15,1,3.7,0,1,40,30
+C2439,Exam Preparation,Beginner,999,9.5,40,8,4.3,40,1,26,196
+C2440,Programming,Intermediate,1999,15.1,70,1,4.2,30,1,37,166
+C2441,Web Development,Beginner,299,7.4,34,11,3.6,10,1,42,94
+C2442,Design,Beginner,999,5.2,28,14,5.0,10,0,10,113
+C2443,Web Development,Intermediate,1999,14.6,51,11,4.0,40,0,41,54
+C2444,Programming,Beginner,499,15.5,74,16,4.0,30,1,33,268
+C2445,Programming,Intermediate,299,9.1,36,8,4.7,10,0,21,321
+C2446,Web Development,Advanced,499,5.2,27,7,5.0,10,1,37,210
+C2447,Web Development,Beginner,499,4.1,21,9,4.8,0,1,8,188
+C2448,Exam Preparation,Advanced,799,10.6,50,5,3.7,0,1,33,48
+C2449,Business,Beginner,499,6.9,34,17,4.3,0,0,28,238
+C2450,Design,Beginner,499,8.8,38,17,3.4,0,0,42,41
+C2451,Language Learning,Intermediate,999,8.4,36,9,4.7,0,1,30,114
+C2452,Web Development,Intermediate,0,6.1,33,16,3.5,40,1,25,105
+C2453,Web Development,Advanced,499,4.0,15,1,3.9,30,0,25,58
+C2454,Language Learning,Beginner,999,7.5,41,4,4.2,40,1,27,130
+C2455,Data Science,Intermediate,299,9.7,50,6,4.5,20,0,42,500
+C2456,Design,Beginner,499,9.9,57,8,4.1,20,0,37,122
+C2457,Design,Beginner,299,6.7,28,5,4.9,0,1,5,212
+C2458,Programming,Beginner,0,15.4,73,11,4.6,30,1,26,991
+C2459,Web Development,Advanced,799,5.5,20,16,4.5,0,1,14,157
+C2460,Data Science,Beginner,0,2.6,15,10,3.7,20,1,8,145
+C2461,Programming,Intermediate,499,13.8,72,9,5.0,50,1,41,1160
+C2462,Web Development,Intermediate,3999,9.6,49,2,3.9,40,0,41,41
+C2463,Data Science,Intermediate,2999,7.5,40,6,5.0,0,1,45,146
+C2464,Exam Preparation,Intermediate,299,11.2,47,17,5.0,30,0,19,459
+C2465,Language Learning,Advanced,499,8.2,41,17,4.5,0,1,21,119
+C2466,Exam Preparation,Beginner,799,4.7,26,3,4.7,0,1,37,433
+C2467,Data Science,Beginner,1999,5.3,20,1,3.0,0,1,10,17
+C2468,Data Science,Intermediate,1499,8.0,47,17,4.2,0,0,3,98
+C2469,Data Science,Beginner,299,7.1,41,4,4.7,30,1,20,405
+C2470,Programming,Beginner,299,13.7,81,12,4.7,10,1,30,676
+C2471,Language Learning,Beginner,799,6.9,38,17,3.7,0,1,22,63
+C2472,Web Development,Beginner,1999,6.8,29,16,4.1,50,1,10,109
+C2473,Data Science,Beginner,1999,6.4,32,12,3.1,20,1,25,53
+C2474,Exam Preparation,Beginner,299,6.1,23,8,4.4,10,1,45,285
+C2475,Web Development,Advanced,999,6.2,33,16,3.4,20,1,13,27
+C2476,Programming,Beginner,299,5.0,19,14,4.8,20,1,19,751
+C2477,Programming,Advanced,999,9.8,56,17,4.8,20,1,15,273
+C2478,Business,Advanced,2999,8.5,35,11,4.0,20,1,14,25
+C2479,Exam Preparation,Beginner,799,8.4,33,19,4.5,40,1,31,256
+C2480,Data Science,Intermediate,0,4.2,15,16,4.2,10,1,18,368
+C2481,Language Learning,Intermediate,999,10.8,57,2,4.4,20,1,30,136
+C2482,Exam Preparation,Intermediate,799,11.2,44,6,3.7,0,1,1,29
+C2483,Exam Preparation,Beginner,1499,17.1,68,16,4.5,40,1,32,268
+C2484,Data Science,Beginner,499,11.0,43,3,3.5,10,1,5,92
+C2485,Programming,Beginner,1999,18.7,80,15,3.4,0,1,18,20
+C2486,Exam Preparation,Intermediate,499,6.6,39,7,4.2,50,1,42,174
+C2487,Data Science,Advanced,299,17.5,83,5,4.2,20,1,16,145
+C2488,Business,Intermediate,499,11.1,46,11,4.4,0,0,33,175
+C2489,Design,Intermediate,0,10.5,41,19,4.0,0,0,17,204
+C2490,Programming,Advanced,499,8.3,29,18,5.0,10,0,43,276
+C2491,Exam Preparation,Intermediate,999,7.5,33,9,4.3,50,1,45,117
+C2492,Language Learning,Beginner,299,6.8,26,1,4.4,10,1,43,85
+C2493,Design,Advanced,299,17.8,64,18,4.3,0,1,19,137
+C2494,Web Development,Beginner,299,8.2,31,18,4.7,20,0,15,421
+C2495,Exam Preparation,Beginner,0,11.2,48,13,4.5,10,1,29,857
+C2496,Business,Intermediate,1999,12.3,66,13,4.4,0,1,39,68
+C2497,Design,Advanced,2999,12.2,45,11,4.6,40,1,25,96
+C2498,Exam Preparation,Beginner,0,9.8,51,1,3.4,0,0,35,73
+C2499,Design,Intermediate,1499,17.4,88,4,3.4,40,0,42,22
